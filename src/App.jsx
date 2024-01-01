@@ -1,35 +1,26 @@
-import { useState } from 'react'
-import reactLogo from './assets/react.svg'
-import viteLogo from '/vite.svg'
-import './App.css'
+import { useGetValue, setValue } from "./hooks/useHaxademicStore";
+import AppStoreDebug from "./components/debug/AppStoreDebug";
 
-function App() {
-  const [count, setCount] = useState(0)
+const RED = "#e84855";
+const YELLOW = "#f9dc5c";
+const BLUE = "#3185fc";
+
+const App = () => {
+  const hexColor = useGetValue("COLOR", "#ffffff");
 
   return (
-    <>
-      <div>
-        <a href="https://vitejs.dev" target="_blank">
-          <img src={viteLogo} className="logo" alt="Vite logo" />
-        </a>
-        <a href="https://react.dev" target="_blank">
-          <img src={reactLogo} className="logo react" alt="React logo" />
-        </a>
-      </div>
-      <h1>Vite + React</h1>
-      <div className="card">
-        <button onClick={() => setCount((count) => count + 1)}>
-          count is {count}
-        </button>
-        <p>
-          Edit <code>src/App.jsx</code> and save to test HMR
-        </p>
-      </div>
-      <p className="read-the-docs">
-        Click on the Vite and React logos to learn more
-      </p>
-    </>
-  )
-}
+    <div className="App" style={{ backgroundColor: hexColor }}>
+      <AppStoreDebug />
+      <h3>
+        AppStoreDistributed
+        <br />
+        —with hooks!
+      </h3>
+      <button onClick={() => setValue("COLOR", RED)}>Red</button>
+      <button onClick={() => setValue("COLOR", YELLOW)}>Yellow</button>
+      <button onClick={() => setValue("COLOR", BLUE)}>Blue</button>
+    </div>
+  );
+};
 
-export default App
+export default App;
