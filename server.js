@@ -103,6 +103,15 @@ nfc.on("reader", (reader) => {
 
   reader.on("card.off", (card) => {
     console.log(`${reader.reader.name}  card removed`);
+
+    sendToAll(
+      JSON.stringify({
+        key: "NFC_UID",
+        value: null,
+        type: "string",
+        store: "true",
+      })
+    );
   });
 
   reader.on("error", (err) => {
