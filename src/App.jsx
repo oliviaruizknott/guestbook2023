@@ -1,24 +1,13 @@
 import { useGetValue, setValue } from "./hooks/useHaxademicStore";
 import AppStoreDebug from "./components/debug/AppStoreDebug";
 
-const RED = "#e84855";
-const YELLOW = "#f9dc5c";
-const BLUE = "#3185fc";
-
 const App = () => {
-  const hexColor = useGetValue("COLOR", "#ffffff");
+  const nfcUid = useGetValue("NFC_UID", "NOT FOUND");
 
   return (
-    <div className="App" style={{ backgroundColor: hexColor }}>
+    <div className="App">
       <AppStoreDebug />
-      <h3>
-        AppStoreDistributed
-        <br />
-        —with hooks!
-      </h3>
-      <button onClick={() => setValue("COLOR", RED)}>Red</button>
-      <button onClick={() => setValue("COLOR", YELLOW)}>Yellow</button>
-      <button onClick={() => setValue("COLOR", BLUE)}>Blue</button>
+      <h3>NFC UID: {nfcUid}</h3>
     </div>
   );
 };
