@@ -1,13 +1,33 @@
+import { useEffect } from "react";
 import { useGetValue, setValue } from "./hooks/useHaxademicStore";
 import AppStoreDebug from "./components/debug/AppStoreDebug";
+import Guests from "./components/Guests";
+import Connections from "./components/Connections";
+import Calendar from "./components/Calendar";
+import Moments from "./components/Moments";
+
+import connectionsData from "./data/connections.json";
 
 const App = () => {
-  const nfcUid = useGetValue("NFC_UID", null);
+  const appStoreConnected = useGetValue("AppStoreDistributed_CONNECTED", null);
+  const NFC_UID = useGetValue("NFC_UID", null);
+
+  // at app start, populate the store with our json data
+  useEffect(() => {
+    if (!appStoreConnected) return;
+    setValue("CONNECTIONS_DATA", connectionsData);
+  }, [appStoreConnected]);
 
   return (
     <div className="App">
       <AppStoreDebug />
-      <h3>NFC UID: {nfcUid || "NOT FOUND"}</h3>
+      <h3>NFC UID: {NFC_UID || "NOT FOUND"}</h3>
+      <div style={{ display: "flex", minHeight: "1000px" }}>
+        <Guests />
+        <Connections />
+        <Calendar />
+        <Moments />
+      </div>
     </div>
   );
 };
