@@ -55,6 +55,13 @@ button:focus-visible {
   width: 25%;
 }
 
+.column-header {
+  font-weight: bold;
+  font-size: 1.2rem;
+  text-transform: uppercase;
+  margin-bottom: 1rem;
+}
+
 @media (prefers-color-scheme: light) {
   :root {
     color: #213547;

@@ -14,9 +14,10 @@ const Guests = () => {
   );
 
   const renderGuests = useCallback(() => {
+    const guestCount = Object.keys(GUESTS_DATA).length;
     return (
       <>
-        <div>PEOPLE</div>
+        <div className="column-header">{guestCount} People</div>
         <div>
           {Object.entries(GUESTS_DATA)
             .sort((a, b) => b[1].connections_count - a[1].connections_count)
@@ -35,7 +36,7 @@ const Guests = () => {
   const renderGuest = useCallback(() => {
     return (
       <div>
-        <div>PERSON</div>
+        <div className="column-header">Person</div>
         <div>{GUESTS_DATA[GUEST_1].name}</div>
         <div onClick={() => setValue("GUEST_1", null)}>X</div>
       </div>
