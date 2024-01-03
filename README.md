@@ -30,6 +30,7 @@ If no variables are set, `VITE_IP_ADDRESS` will default to `localhost`, and the 
 First, start the server. This will start a websocket server and enable communication with the NFC Reader. In the root of the project, run:
 
 ```
+cd server
 node server.js
 ```
 
