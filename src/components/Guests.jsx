@@ -2,7 +2,7 @@ import { useCallback } from "react";
 import { useGetValue, setValue } from "../hooks/useHaxademicStore";
 
 const Guests = () => {
-  const CONNECTIONS_DATA = useGetValue("CONNECTIONS_DATA", null);
+  const GUESTS_DATA = useGetValue("GUESTS_DATA", null);
   const GUEST_1 = useGetValue("GUEST_1", null);
 
   const handleGuestClick = useCallback(
@@ -18,37 +18,34 @@ const Guests = () => {
       <>
         <div>PEOPLE</div>
         <div>
-          {Object.entries(CONNECTIONS_DATA)
-            .sort(
-              (a, b) =>
-                b[1].total_connections_count - a[1].total_connections_count
-            )
+          {Object.entries(GUESTS_DATA)
+            .sort((a, b) => b[1].connections_count - a[1].connections_count)
             .map(([key, value]) => {
               return (
                 <div key={key} data-guestid={key} onClick={handleGuestClick}>
-                  {value.total_connections_count} {value.name}
+                  {value.connections_count} {value.name}
                 </div>
               );
             })}
         </div>
       </>
     );
-  }, [CONNECTIONS_DATA]);
+  }, [GUESTS_DATA]);
 
   const renderGuest = useCallback(() => {
     return (
       <div>
         <div>PERSON</div>
-        <div>{CONNECTIONS_DATA[GUEST_1].name}</div>
+        <div>{GUESTS_DATA[GUEST_1].name}</div>
         <div onClick={() => setValue("GUEST_1", null)}>X</div>
       </div>
     );
-  }, [CONNECTIONS_DATA, GUEST_1]);
+  }, [GUESTS_DATA, GUEST_1]);
 
   return (
     <div className="Guest quarter">
-      {CONNECTIONS_DATA && !GUEST_1 && renderGuests()}
-      {CONNECTIONS_DATA && GUEST_1 && renderGuest()}
+      {GUESTS_DATA && !GUEST_1 && renderGuests()}
+      {GUESTS_DATA && GUEST_1 && renderGuest()}
     </div>
   );
 };

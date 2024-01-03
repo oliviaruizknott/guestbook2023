@@ -2,12 +2,12 @@ import { useCallback } from "react";
 import { useGetValue, setValue } from "../hooks/useHaxademicStore";
 
 const Connections = () => {
-  const CONNECTIONS_DATA = useGetValue("CONNECTIONS_DATA", null);
+  const GUESTS_DATA = useGetValue("GUESTS_DATA", null);
   const GUEST_1 = useGetValue("GUEST_1", null);
 
   const renderConnections = useCallback(() => {
-    if (!CONNECTIONS_DATA || !GUEST_1) return;
-    const guestConnections = CONNECTIONS_DATA[GUEST_1].connections;
+    if (!GUESTS_DATA || !GUEST_1) return;
+    const guestConnections = GUESTS_DATA[GUEST_1].connections;
 
     return (
       <div>
@@ -22,7 +22,7 @@ const Connections = () => {
           })}
       </div>
     );
-  }, [CONNECTIONS_DATA, GUEST_1]);
+  }, [GUESTS_DATA, GUEST_1]);
 
   return (
     <div className="Connections quarter">

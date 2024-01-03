@@ -6,7 +6,7 @@ import Connections from "./components/Connections";
 import Calendar from "./components/Calendar";
 import Moments from "./components/Moments";
 
-import connectionsData from "./data/connections.json";
+import guestsData from "./data/guests_data.json";
 
 const App = () => {
   const appStoreConnected = useGetValue("AppStoreDistributed_CONNECTED", null);
@@ -15,7 +15,7 @@ const App = () => {
   // at app start, populate the store with our json data
   useEffect(() => {
     if (!appStoreConnected) return;
-    setValue("CONNECTIONS_DATA", connectionsData);
+    setValue("GUESTS_DATA", guestsData);
   }, [appStoreConnected]);
 
   return (
