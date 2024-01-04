@@ -1,6 +1,6 @@
 import React from "react";
 import ReactDOM from "react-dom/client";
-import AppStoreDistributed from "./haxademic/app-store-distributed";
+import AppStoreDistributed from "../haxademic/app-store-distributed";
 import App from "./App";
 import "./index.css";
 

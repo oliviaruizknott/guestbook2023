@@ -7,8 +7,8 @@ import Connections from "./components/Connections";
 import Calendar from "./components/Calendar";
 import Moments from "./components/Moments";
 
-import guestsData from "./data/guests_data.json";
-import momentsData from "./data/moments_data.json";
+import guestsData from "../data/guests_data.json";
+import momentsData from "../data/moments_data.json";
 
 const App = () => {
   const appStoreConnected = useGetValue("AppStoreDistributed_CONNECTED", null);

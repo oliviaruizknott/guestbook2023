@@ -1,0 +1,12 @@
+body {
+  font-family: monospace;
+}
+
+#app {
+  width: 500px;
+}
+
+th {
+  text-align: left;
+  min-width: 50px;
+}
