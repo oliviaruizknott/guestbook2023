@@ -9,6 +9,7 @@ import Moments from "./components/Moments";
 
 import guestsData from "../data/guests_data.json";
 import momentsData from "../data/moments_data.json";
+import calendarData from "../data/calendar_data.json";
 
 const App = () => {
   const appStoreConnected = useGetValue("AppStoreDistributed_CONNECTED", null);
@@ -21,7 +22,8 @@ const App = () => {
     if (!appStoreConnected) return;
     setValue("GUESTS_DATA", guestsData);
     setValue("MOMENTS_DATA", momentsData);
-  }, [appStoreConnected]);
+    setValue("CALENDAR_DATA", calendarData);
+  }, [appStoreConnected, guestsData, momentsData, calendarData]);
 
   return (
     <div className="App">

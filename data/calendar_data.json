@@ -1,0 +1,479 @@
+[
+  [
+    { "date": "2023-01-01", "moments": [], "overnights": [] },
+    { "date": "2023-01-02", "moments": [784], "overnights": [] },
+    { "date": "2023-01-03", "moments": [785], "overnights": [] },
+    { "date": "2023-01-04", "moments": [786, 787], "overnights": [] },
+    { "date": "2023-01-05", "moments": [], "overnights": [] },
+    { "date": "2023-01-06", "moments": [788], "overnights": [] },
+    { "date": "2023-01-07", "moments": [], "overnights": [] }
+  ],
+  [
+    { "date": "2023-01-08", "moments": [789], "overnights": [] },
+    { "date": "2023-01-09", "moments": [790], "overnights": [] },
+    { "date": "2023-01-10", "moments": [791], "overnights": [] },
+    { "date": "2023-01-11", "moments": [792], "overnights": [] },
+    { "date": "2023-01-12", "moments": [], "overnights": [] },
+    { "date": "2023-01-13", "moments": [793], "overnights": [] },
+    { "date": "2023-01-14", "moments": [], "overnights": [] }
+  ],
+  [
+    { "date": "2023-01-15", "moments": [794], "overnights": [] },
+    { "date": "2023-01-16", "moments": [795], "overnights": [] },
+    { "date": "2023-01-17", "moments": [], "overnights": [] },
+    { "date": "2023-01-18", "moments": [796], "overnights": [] },
+    { "date": "2023-01-19", "moments": [], "overnights": [] },
+    { "date": "2023-01-20", "moments": [797], "overnights": [] },
+    { "date": "2023-01-21", "moments": [], "overnights": [] }
+  ],
+  [
+    { "date": "2023-01-22", "moments": [], "overnights": [] },
+    { "date": "2023-01-23", "moments": [], "overnights": [] },
+    { "date": "2023-01-24", "moments": [], "overnights": [] },
+    { "date": "2023-01-25", "moments": [], "overnights": [] },
+    { "date": "2023-01-26", "moments": [], "overnights": [] },
+    { "date": "2023-01-27", "moments": [], "overnights": [] },
+    { "date": "2023-01-28", "moments": [798], "overnights": [] }
+  ],
+  [
+    { "date": "2023-01-29", "moments": [800], "overnights": [] },
+    { "date": "2023-01-30", "moments": [], "overnights": [] },
+    { "date": "2023-01-31", "moments": [], "overnights": [] },
+    { "date": "2023-02-01", "moments": [801, 802, 803], "overnights": [] },
+    { "date": "2023-02-02", "moments": [], "overnights": [] },
+    { "date": "2023-02-03", "moments": [804], "overnights": [] },
+    { "date": "2023-02-04", "moments": [], "overnights": [] }
+  ],
+  [
+    { "date": "2023-02-05", "moments": [], "overnights": [] },
+    { "date": "2023-02-06", "moments": [], "overnights": [] },
+    { "date": "2023-02-07", "moments": [], "overnights": [] },
+    { "date": "2023-02-08", "moments": [805, 806, 807], "overnights": [] },
+    { "date": "2023-02-09", "moments": [], "overnights": [] },
+    { "date": "2023-02-10", "moments": [808], "overnights": [] },
+    { "date": "2023-02-11", "moments": [809], "overnights": [] }
+  ],
+  [
+    { "date": "2023-02-12", "moments": [810], "overnights": [] },
+    { "date": "2023-02-13", "moments": [], "overnights": [] },
+    { "date": "2023-02-14", "moments": [], "overnights": [] },
+    { "date": "2023-02-15", "moments": [], "overnights": [] },
+    { "date": "2023-02-16", "moments": [], "overnights": [] },
+    { "date": "2023-02-17", "moments": [], "overnights": [] },
+    { "date": "2023-02-18", "moments": [], "overnights": [] }
+  ],
+  [
+    { "date": "2023-02-19", "moments": [], "overnights": [] },
+    { "date": "2023-02-20", "moments": [], "overnights": [] },
+    { "date": "2023-02-21", "moments": [], "overnights": [] },
+    { "date": "2023-02-22", "moments": [], "overnights": [] },
+    { "date": "2023-02-23", "moments": [], "overnights": [] },
+    { "date": "2023-02-24", "moments": [811], "overnights": [] },
+    { "date": "2023-02-25", "moments": [812], "overnights": [] }
+  ],
+  [
+    { "date": "2023-02-26", "moments": [], "overnights": [] },
+    { "date": "2023-02-27", "moments": [], "overnights": [] },
+    { "date": "2023-02-28", "moments": [], "overnights": [] },
+    { "date": "2023-03-01", "moments": [813, 814, 815, 816], "overnights": [] },
+    { "date": "2023-03-02", "moments": [], "overnights": [] },
+    { "date": "2023-03-03", "moments": [817], "overnights": [] },
+    { "date": "2023-03-04", "moments": [], "overnights": [] }
+  ],
+  [
+    { "date": "2023-03-05", "moments": [], "overnights": [] },
+    { "date": "2023-03-06", "moments": [], "overnights": [] },
+    { "date": "2023-03-07", "moments": [], "overnights": [60] },
+    { "date": "2023-03-08", "moments": [818], "overnights": [60] },
+    { "date": "2023-03-09", "moments": [], "overnights": [] },
+    { "date": "2023-03-10", "moments": [], "overnights": [] },
+    { "date": "2023-03-11", "moments": [], "overnights": [] }
+  ],
+  [
+    { "date": "2023-03-12", "moments": [819], "overnights": [] },
+    { "date": "2023-03-13", "moments": [], "overnights": [] },
+    { "date": "2023-03-14", "moments": [], "overnights": [] },
+    { "date": "2023-03-15", "moments": [], "overnights": [] },
+    { "date": "2023-03-16", "moments": [820], "overnights": [] },
+    { "date": "2023-03-17", "moments": [821], "overnights": [] },
+    { "date": "2023-03-18", "moments": [822], "overnights": [] }
+  ],
+  [
+    { "date": "2023-03-19", "moments": [823], "overnights": [] },
+    { "date": "2023-03-20", "moments": [], "overnights": [] },
+    { "date": "2023-03-21", "moments": [], "overnights": [] },
+    { "date": "2023-03-22", "moments": [824], "overnights": [] },
+    { "date": "2023-03-23", "moments": [], "overnights": [] },
+    { "date": "2023-03-24", "moments": [825], "overnights": [] },
+    { "date": "2023-03-25", "moments": [], "overnights": [] }
+  ],
+  [
+    { "date": "2023-03-26", "moments": [826], "overnights": [] },
+    { "date": "2023-03-27", "moments": [], "overnights": [] },
+    { "date": "2023-03-28", "moments": [827], "overnights": [] },
+    { "date": "2023-03-29", "moments": [828, 829], "overnights": [] },
+    { "date": "2023-03-30", "moments": [], "overnights": [] },
+    { "date": "2023-03-31", "moments": [830], "overnights": [66, 67] },
+    { "date": "2023-04-01", "moments": [], "overnights": [66, 67] }
+  ],
+  [
+    { "date": "2023-04-02", "moments": [], "overnights": [66, 67] },
+    { "date": "2023-04-03", "moments": [], "overnights": [66, 67] },
+    { "date": "2023-04-04", "moments": [], "overnights": [66, 67] },
+    { "date": "2023-04-05", "moments": [], "overnights": [66, 67] },
+    { "date": "2023-04-06", "moments": [], "overnights": [66, 67] },
+    { "date": "2023-04-07", "moments": [], "overnights": [66, 67] },
+    { "date": "2023-04-08", "moments": [831], "overnights": [66, 67] }
+  ],
+  [
+    { "date": "2023-04-09", "moments": [], "overnights": [66, 67] },
+    { "date": "2023-04-10", "moments": [], "overnights": [66, 67] },
+    { "date": "2023-04-11", "moments": [], "overnights": [67] },
+    { "date": "2023-04-12", "moments": [], "overnights": [67] },
+    { "date": "2023-04-13", "moments": [], "overnights": [] },
+    { "date": "2023-04-14", "moments": [832], "overnights": [] },
+    { "date": "2023-04-15", "moments": [], "overnights": [] }
+  ],
+  [
+    { "date": "2023-04-16", "moments": [833], "overnights": [] },
+    { "date": "2023-04-17", "moments": [], "overnights": [] },
+    { "date": "2023-04-18", "moments": [834], "overnights": [] },
+    { "date": "2023-04-19", "moments": [835, 836], "overnights": [] },
+    { "date": "2023-04-20", "moments": [], "overnights": [] },
+    { "date": "2023-04-21", "moments": [], "overnights": [] },
+    { "date": "2023-04-22", "moments": [], "overnights": [] }
+  ],
+  [
+    { "date": "2023-04-23", "moments": [], "overnights": [] },
+    { "date": "2023-04-24", "moments": [], "overnights": [] },
+    { "date": "2023-04-25", "moments": [], "overnights": [] },
+    { "date": "2023-04-26", "moments": [], "overnights": [] },
+    { "date": "2023-04-27", "moments": [], "overnights": [] },
+    { "date": "2023-04-28", "moments": [], "overnights": [] },
+    { "date": "2023-04-29", "moments": [], "overnights": [] }
+  ],
+  [
+    { "date": "2023-04-30", "moments": [], "overnights": [] },
+    { "date": "2023-05-01", "moments": [], "overnights": [] },
+    { "date": "2023-05-02", "moments": [], "overnights": [] },
+    { "date": "2023-05-03", "moments": [], "overnights": [] },
+    { "date": "2023-05-04", "moments": [837], "overnights": [] },
+    { "date": "2023-05-05", "moments": [], "overnights": [] },
+    { "date": "2023-05-06", "moments": [838, 839], "overnights": [] }
+  ],
+  [
+    { "date": "2023-05-07", "moments": [], "overnights": [] },
+    { "date": "2023-05-08", "moments": [], "overnights": [] },
+    { "date": "2023-05-09", "moments": [], "overnights": [] },
+    { "date": "2023-05-10", "moments": [840], "overnights": [] },
+    { "date": "2023-05-11", "moments": [], "overnights": [] },
+    { "date": "2023-05-12", "moments": [841], "overnights": [] },
+    { "date": "2023-05-13", "moments": [], "overnights": [] }
+  ],
+  [
+    { "date": "2023-05-14", "moments": [], "overnights": [] },
+    { "date": "2023-05-15", "moments": [], "overnights": [] },
+    { "date": "2023-05-16", "moments": [], "overnights": [] },
+    { "date": "2023-05-17", "moments": [], "overnights": [] },
+    { "date": "2023-05-18", "moments": [842], "overnights": [] },
+    { "date": "2023-05-19", "moments": [843], "overnights": [] },
+    { "date": "2023-05-20", "moments": [], "overnights": [] }
+  ],
+  [
+    { "date": "2023-05-21", "moments": [], "overnights": [] },
+    { "date": "2023-05-22", "moments": [], "overnights": [] },
+    { "date": "2023-05-23", "moments": [], "overnights": [] },
+    { "date": "2023-05-24", "moments": [844], "overnights": [] },
+    { "date": "2023-05-25", "moments": [], "overnights": [] },
+    { "date": "2023-05-26", "moments": [845], "overnights": [68] },
+    { "date": "2023-05-27", "moments": [], "overnights": [68] }
+  ],
+  [
+    { "date": "2023-05-28", "moments": [], "overnights": [68] },
+    { "date": "2023-05-29", "moments": [], "overnights": [68] },
+    { "date": "2023-05-30", "moments": [], "overnights": [68] },
+    { "date": "2023-05-31", "moments": [], "overnights": [] },
+    { "date": "2023-06-01", "moments": [], "overnights": [] },
+    { "date": "2023-06-02", "moments": [846], "overnights": [] },
+    { "date": "2023-06-03", "moments": [], "overnights": [] }
+  ],
+  [
+    { "date": "2023-06-04", "moments": [], "overnights": [] },
+    { "date": "2023-06-05", "moments": [], "overnights": [] },
+    { "date": "2023-06-06", "moments": [847], "overnights": [] },
+    { "date": "2023-06-07", "moments": [848], "overnights": [] },
+    { "date": "2023-06-08", "moments": [], "overnights": [] },
+    { "date": "2023-06-09", "moments": [849], "overnights": [] },
+    { "date": "2023-06-10", "moments": [850], "overnights": [] }
+  ],
+  [
+    { "date": "2023-06-11", "moments": [], "overnights": [] },
+    { "date": "2023-06-12", "moments": [], "overnights": [] },
+    { "date": "2023-06-13", "moments": [], "overnights": [] },
+    { "date": "2023-06-14", "moments": [], "overnights": [] },
+    { "date": "2023-06-15", "moments": [], "overnights": [] },
+    { "date": "2023-06-16", "moments": [851], "overnights": [] },
+    { "date": "2023-06-17", "moments": [], "overnights": [] }
+  ],
+  [
+    { "date": "2023-06-18", "moments": [], "overnights": [] },
+    { "date": "2023-06-19", "moments": [852], "overnights": [] },
+    { "date": "2023-06-20", "moments": [853], "overnights": [] },
+    { "date": "2023-06-21", "moments": [], "overnights": [] },
+    { "date": "2023-06-22", "moments": [], "overnights": [] },
+    { "date": "2023-06-23", "moments": [854], "overnights": [] },
+    { "date": "2023-06-24", "moments": [], "overnights": [] }
+  ],
+  [
+    { "date": "2023-06-25", "moments": [855], "overnights": [] },
+    { "date": "2023-06-26", "moments": [856], "overnights": [] },
+    { "date": "2023-06-27", "moments": [], "overnights": [] },
+    { "date": "2023-06-28", "moments": [], "overnights": [] },
+    { "date": "2023-06-29", "moments": [], "overnights": [] },
+    { "date": "2023-06-30", "moments": [], "overnights": [] },
+    { "date": "2023-07-01", "moments": [], "overnights": [] }
+  ],
+  [
+    { "date": "2023-07-02", "moments": [], "overnights": [] },
+    { "date": "2023-07-03", "moments": [], "overnights": [] },
+    { "date": "2023-07-04", "moments": [], "overnights": [] },
+    { "date": "2023-07-05", "moments": [], "overnights": [] },
+    { "date": "2023-07-06", "moments": [], "overnights": [] },
+    { "date": "2023-07-07", "moments": [], "overnights": [] },
+    { "date": "2023-07-08", "moments": [], "overnights": [] }
+  ],
+  [
+    { "date": "2023-07-09", "moments": [857], "overnights": [] },
+    { "date": "2023-07-10", "moments": [], "overnights": [] },
+    { "date": "2023-07-11", "moments": [], "overnights": [] },
+    { "date": "2023-07-12", "moments": [], "overnights": [] },
+    { "date": "2023-07-13", "moments": [], "overnights": [] },
+    { "date": "2023-07-14", "moments": [], "overnights": [] },
+    { "date": "2023-07-15", "moments": [], "overnights": [] }
+  ],
+  [
+    { "date": "2023-07-16", "moments": [858, 859], "overnights": [] },
+    { "date": "2023-07-17", "moments": [860], "overnights": [] },
+    { "date": "2023-07-18", "moments": [], "overnights": [] },
+    { "date": "2023-07-19", "moments": [], "overnights": [] },
+    { "date": "2023-07-20", "moments": [861], "overnights": [] },
+    { "date": "2023-07-21", "moments": [862], "overnights": [] },
+    { "date": "2023-07-22", "moments": [], "overnights": [] }
+  ],
+  [
+    { "date": "2023-07-23", "moments": [], "overnights": [] },
+    { "date": "2023-07-24", "moments": [], "overnights": [] },
+    { "date": "2023-07-25", "moments": [], "overnights": [] },
+    { "date": "2023-07-26", "moments": [], "overnights": [] },
+    { "date": "2023-07-27", "moments": [], "overnights": [] },
+    { "date": "2023-07-28", "moments": [], "overnights": [] },
+    { "date": "2023-07-29", "moments": [863], "overnights": [69] }
+  ],
+  [
+    { "date": "2023-07-30", "moments": [], "overnights": [69] },
+    { "date": "2023-07-31", "moments": [], "overnights": [69] },
+    { "date": "2023-08-01", "moments": [864], "overnights": [] },
+    { "date": "2023-08-02", "moments": [865], "overnights": [] },
+    { "date": "2023-08-03", "moments": [], "overnights": [] },
+    { "date": "2023-08-04", "moments": [866], "overnights": [] },
+    { "date": "2023-08-05", "moments": [867], "overnights": [] }
+  ],
+  [
+    { "date": "2023-08-06", "moments": [868], "overnights": [] },
+    { "date": "2023-08-07", "moments": [], "overnights": [] },
+    { "date": "2023-08-08", "moments": [], "overnights": [] },
+    { "date": "2023-08-09", "moments": [869], "overnights": [] },
+    { "date": "2023-08-10", "moments": [870], "overnights": [] },
+    { "date": "2023-08-11", "moments": [], "overnights": [] },
+    { "date": "2023-08-12", "moments": [], "overnights": [] }
+  ],
+  [
+    { "date": "2023-08-13", "moments": [871, 872], "overnights": [] },
+    { "date": "2023-08-14", "moments": [], "overnights": [] },
+    { "date": "2023-08-15", "moments": [], "overnights": [] },
+    { "date": "2023-08-16", "moments": [], "overnights": [70] },
+    { "date": "2023-08-17", "moments": [], "overnights": [70] },
+    { "date": "2023-08-18", "moments": [873], "overnights": [70] },
+    { "date": "2023-08-19", "moments": [], "overnights": [70] }
+  ],
+  [
+    { "date": "2023-08-20", "moments": [], "overnights": [70] },
+    { "date": "2023-08-21", "moments": [], "overnights": [] },
+    { "date": "2023-08-22", "moments": [874], "overnights": [] },
+    { "date": "2023-08-23", "moments": [], "overnights": [] },
+    { "date": "2023-08-24", "moments": [], "overnights": [] },
+    { "date": "2023-08-25", "moments": [875], "overnights": [] },
+    { "date": "2023-08-26", "moments": [876], "overnights": [] }
+  ],
+  [
+    { "date": "2023-08-27", "moments": [], "overnights": [] },
+    { "date": "2023-08-28", "moments": [], "overnights": [] },
+    { "date": "2023-08-29", "moments": [], "overnights": [] },
+    { "date": "2023-08-30", "moments": [], "overnights": [] },
+    { "date": "2023-08-31", "moments": [], "overnights": [] },
+    { "date": "2023-09-01", "moments": [], "overnights": [] },
+    { "date": "2023-09-02", "moments": [], "overnights": [] }
+  ],
+  [
+    { "date": "2023-09-03", "moments": [], "overnights": [] },
+    { "date": "2023-09-04", "moments": [877], "overnights": [] },
+    { "date": "2023-09-05", "moments": [], "overnights": [] },
+    { "date": "2023-09-06", "moments": [], "overnights": [] },
+    { "date": "2023-09-07", "moments": [], "overnights": [] },
+    { "date": "2023-09-08", "moments": [878], "overnights": [] },
+    { "date": "2023-09-09", "moments": [], "overnights": [] }
+  ],
+  [
+    { "date": "2023-09-10", "moments": [879], "overnights": [] },
+    { "date": "2023-09-11", "moments": [], "overnights": [] },
+    { "date": "2023-09-12", "moments": [], "overnights": [] },
+    { "date": "2023-09-13", "moments": [], "overnights": [] },
+    { "date": "2023-09-14", "moments": [], "overnights": [] },
+    { "date": "2023-09-15", "moments": [], "overnights": [] },
+    { "date": "2023-09-16", "moments": [], "overnights": [] }
+  ],
+  [
+    { "date": "2023-09-17", "moments": [], "overnights": [] },
+    { "date": "2023-09-18", "moments": [], "overnights": [] },
+    { "date": "2023-09-19", "moments": [], "overnights": [] },
+    { "date": "2023-09-20", "moments": [], "overnights": [] },
+    { "date": "2023-09-21", "moments": [], "overnights": [] },
+    { "date": "2023-09-22", "moments": [880], "overnights": [] },
+    { "date": "2023-09-23", "moments": [881], "overnights": [71] }
+  ],
+  [
+    { "date": "2023-09-24", "moments": [], "overnights": [71] },
+    { "date": "2023-09-25", "moments": [], "overnights": [] },
+    { "date": "2023-09-26", "moments": [882], "overnights": [] },
+    { "date": "2023-09-27", "moments": [883], "overnights": [] },
+    { "date": "2023-09-28", "moments": [], "overnights": [] },
+    { "date": "2023-09-29", "moments": [884], "overnights": [] },
+    { "date": "2023-09-30", "moments": [], "overnights": [] }
+  ],
+  [
+    { "date": "2023-10-01", "moments": [885], "overnights": [] },
+    { "date": "2023-10-02", "moments": [886], "overnights": [] },
+    { "date": "2023-10-03", "moments": [], "overnights": [] },
+    { "date": "2023-10-04", "moments": [887], "overnights": [] },
+    { "date": "2023-10-05", "moments": [], "overnights": [] },
+    { "date": "2023-10-06", "moments": [888], "overnights": [] },
+    { "date": "2023-10-07", "moments": [889], "overnights": [] }
+  ],
+  [
+    { "date": "2023-10-08", "moments": [890, 891], "overnights": [] },
+    { "date": "2023-10-09", "moments": [], "overnights": [] },
+    { "date": "2023-10-10", "moments": [], "overnights": [] },
+    { "date": "2023-10-11", "moments": [], "overnights": [] },
+    { "date": "2023-10-12", "moments": [], "overnights": [] },
+    { "date": "2023-10-13", "moments": [], "overnights": [] },
+    { "date": "2023-10-14", "moments": [892], "overnights": [] }
+  ],
+  [
+    { "date": "2023-10-15", "moments": [], "overnights": [] },
+    { "date": "2023-10-16", "moments": [], "overnights": [] },
+    { "date": "2023-10-17", "moments": [], "overnights": [] },
+    { "date": "2023-10-18", "moments": [], "overnights": [] },
+    { "date": "2023-10-19", "moments": [], "overnights": [] },
+    { "date": "2023-10-20", "moments": [893], "overnights": [] },
+    { "date": "2023-10-21", "moments": [894], "overnights": [] }
+  ],
+  [
+    { "date": "2023-10-22", "moments": [], "overnights": [] },
+    { "date": "2023-10-23", "moments": [], "overnights": [] },
+    { "date": "2023-10-24", "moments": [], "overnights": [] },
+    { "date": "2023-10-25", "moments": [895], "overnights": [] },
+    { "date": "2023-10-26", "moments": [], "overnights": [] },
+    { "date": "2023-10-27", "moments": [896], "overnights": [] },
+    { "date": "2023-10-28", "moments": [897], "overnights": [] }
+  ],
+  [
+    { "date": "2023-10-29", "moments": [], "overnights": [] },
+    { "date": "2023-10-30", "moments": [], "overnights": [] },
+    { "date": "2023-10-31", "moments": [], "overnights": [] },
+    { "date": "2023-11-01", "moments": [898], "overnights": [] },
+    { "date": "2023-11-02", "moments": [], "overnights": [] },
+    { "date": "2023-11-03", "moments": [899, 900], "overnights": [] },
+    { "date": "2023-11-04", "moments": [], "overnights": [] }
+  ],
+  [
+    { "date": "2023-11-05", "moments": [901], "overnights": [] },
+    { "date": "2023-11-06", "moments": [], "overnights": [] },
+    { "date": "2023-11-07", "moments": [], "overnights": [] },
+    { "date": "2023-11-08", "moments": [], "overnights": [] },
+    { "date": "2023-11-09", "moments": [], "overnights": [] },
+    { "date": "2023-11-10", "moments": [902], "overnights": [] },
+    { "date": "2023-11-11", "moments": [], "overnights": [] }
+  ],
+  [
+    { "date": "2023-11-12", "moments": [], "overnights": [] },
+    { "date": "2023-11-13", "moments": [], "overnights": [] },
+    { "date": "2023-11-14", "moments": [], "overnights": [] },
+    { "date": "2023-11-15", "moments": [], "overnights": [] },
+    { "date": "2023-11-16", "moments": [], "overnights": [] },
+    { "date": "2023-11-17", "moments": [903], "overnights": [] },
+    { "date": "2023-11-18", "moments": [], "overnights": [] }
+  ],
+  [
+    { "date": "2023-11-19", "moments": [], "overnights": [] },
+    { "date": "2023-11-20", "moments": [], "overnights": [] },
+    { "date": "2023-11-21", "moments": [], "overnights": [] },
+    { "date": "2023-11-22", "moments": [], "overnights": [] },
+    { "date": "2023-11-23", "moments": [], "overnights": [] },
+    { "date": "2023-11-24", "moments": [], "overnights": [] },
+    { "date": "2023-11-25", "moments": [], "overnights": [] }
+  ],
+  [
+    { "date": "2023-11-26", "moments": [], "overnights": [] },
+    { "date": "2023-11-27", "moments": [], "overnights": [] },
+    { "date": "2023-11-28", "moments": [], "overnights": [] },
+    { "date": "2023-11-29", "moments": [], "overnights": [] },
+    { "date": "2023-11-30", "moments": [], "overnights": [] },
+    { "date": "2023-12-01", "moments": [904], "overnights": [] },
+    { "date": "2023-12-02", "moments": [905, 906], "overnights": [] }
+  ],
+  [
+    { "date": "2023-12-03", "moments": [], "overnights": [] },
+    { "date": "2023-12-04", "moments": [907], "overnights": [] },
+    { "date": "2023-12-05", "moments": [908], "overnights": [] },
+    { "date": "2023-12-06", "moments": [], "overnights": [] },
+    { "date": "2023-12-07", "moments": [], "overnights": [] },
+    { "date": "2023-12-08", "moments": [909], "overnights": [] },
+    { "date": "2023-12-09", "moments": [], "overnights": [] }
+  ],
+  [
+    { "date": "2023-12-10", "moments": [], "overnights": [] },
+    { "date": "2023-12-11", "moments": [], "overnights": [] },
+    { "date": "2023-12-12", "moments": [], "overnights": [] },
+    { "date": "2023-12-13", "moments": [910], "overnights": [] },
+    { "date": "2023-12-14", "moments": [], "overnights": [] },
+    { "date": "2023-12-15", "moments": [911], "overnights": [] },
+    { "date": "2023-12-16", "moments": [], "overnights": [] }
+  ],
+  [
+    { "date": "2023-12-17", "moments": [912], "overnights": [] },
+    { "date": "2023-12-18", "moments": [], "overnights": [] },
+    { "date": "2023-12-19", "moments": [], "overnights": [] },
+    { "date": "2023-12-20", "moments": [], "overnights": [] },
+    { "date": "2023-12-21", "moments": [], "overnights": [] },
+    { "date": "2023-12-22", "moments": [], "overnights": [] },
+    { "date": "2023-12-23", "moments": [], "overnights": [] }
+  ],
+  [
+    { "date": "2023-12-24", "moments": [913], "overnights": [] },
+    { "date": "2023-12-25", "moments": [], "overnights": [] },
+    { "date": "2023-12-26", "moments": [], "overnights": [] },
+    { "date": "2023-12-27", "moments": [], "overnights": [] },
+    { "date": "2023-12-28", "moments": [], "overnights": [] },
+    { "date": "2023-12-29", "moments": [914], "overnights": [] },
+    { "date": "2023-12-30", "moments": [], "overnights": [] }
+  ],
+  [
+    { "date": "2023-12-31", "moments": [915], "overnights": [] },
+    "X",
+    "X",
+    "X",
+    "X",
+    "X",
+    "X"
+  ]
+]

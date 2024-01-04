@@ -6,7 +6,7 @@
 
   color-scheme: light dark;
   color: rgba(255, 255, 255, 0.87);
-  background-color: #242424;
+  background-color: black;
 
   font-synthesis: none;
   text-rendering: optimizeLegibility;
@@ -62,15 +62,25 @@ button:focus-visible {
   margin-bottom: 1rem;
 }
 
-@media (prefers-color-scheme: light) {
-  :root {
-    color: #213547;
-    background-color: #ffffff;
-  }
-  a:hover {
-    color: #747bff;
-  }
-  button {
-    background-color: #f9f9f9;
-  }
+.week {
+  height: 200px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  gap: 5px;
+}
+
+.day-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 25px;
+  aspect-ratio: 1;
+}
+
+.day {
+  aspect-ratio: 1;
+  border-radius: 50%;
+  height: 15px;
+  background: #212249;
 }
