@@ -18,8 +18,17 @@ const Connections = () => {
 
     return (
       <>
-        <div className="column-header">{guestConnectionsCount} Connections</div>
-        <div>
+        <div className="section-header">
+          {guestConnectionsCount} Connections
+        </div>
+        <div
+          style={{
+            columnCount: "3",
+            columnGap: "10px",
+            columnFill: "auto",
+            height: "750px",
+          }}
+        >
           {Object.entries(guestConnections)
             .sort((a, b) => b[1].count - a[1].count)
             .map(([key, value]) => {
@@ -39,7 +48,7 @@ const Connections = () => {
 
     return (
       <>
-        <div className="column-header">was with</div>
+        <div className="section-header">was with</div>
         <div>
           <div>{GUESTS_DATA[GUEST_2].name}</div>
           <div onClick={() => setValue("GUEST_2", null)}>X</div>
@@ -49,7 +58,7 @@ const Connections = () => {
   }, [GUESTS_DATA, GUEST_1, GUEST_2]);
 
   return (
-    <div className="Connections quarter">
+    <div className="Connections section" style={{ gridColumn: "span 5" }}>
       {GUEST_1 && !GUEST_2 && renderConnections()}
       {GUEST_1 && GUEST_2 && renderConnectedGuest()}
     </div>

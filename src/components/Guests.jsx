@@ -1,4 +1,4 @@
-import { useCallback } from "react";
+import { useCallback, useMemo } from "react";
 import { useGetValue, setValue } from "../hooks/useHaxademicStore";
 
 const Guests = () => {
@@ -13,12 +13,23 @@ const Guests = () => {
     [GUEST_1]
   );
 
+  const columnCount = useMemo(() => {
+    return GUEST_1 ? "span 2" : "span 12";
+  }, [GUEST_1]);
+
   const renderGuests = useCallback(() => {
     const guestCount = Object.keys(GUESTS_DATA).length;
     return (
       <>
-        <div className="column-header">{guestCount} People</div>
-        <div>
+        <div className="section-header">{guestCount} People</div>
+        <div
+          style={{
+            columnCount: "8",
+            columnGap: "10px",
+            columnFill: "auto",
+            height: "450px",
+          }}
+        >
           {Object.entries(GUESTS_DATA)
             .sort((a, b) => b[1].connections_count - a[1].connections_count)
             .map(([key, value]) => {
@@ -36,7 +47,7 @@ const Guests = () => {
   const renderGuest = useCallback(() => {
     return (
       <div>
-        <div className="column-header">Person</div>
+        <div className="section-header">Person</div>
         <div>{GUESTS_DATA[GUEST_1].name}</div>
         <div onClick={() => setValue("GUEST_1", null)}>X</div>
       </div>
@@ -44,7 +55,7 @@ const Guests = () => {
   }, [GUESTS_DATA, GUEST_1]);
 
   return (
-    <div className="Guest quarter">
+    <div className="Guest section" style={{ gridColumn: columnCount }}>
       {GUESTS_DATA && !GUEST_1 && renderGuests()}
       {GUESTS_DATA && GUEST_1 && renderGuest()}
     </div>
