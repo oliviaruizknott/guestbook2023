@@ -137,3 +137,36 @@ class NFCConfigurator {
 }
 
 new NFCConfigurator();
+
+function findDuplicates() {
+  // check the guests data for any guests that have the same nfcId and log their name and id (entry key) to the console.
+
+  let duplicates = [];
+
+  for (let guestId in guestsData) {
+    let guest = guestsData[guestId];
+    let nfcId = guest.nfcId;
+
+    if (nfcId) {
+      for (let guestId2 in guestsData) {
+        let guest2 = guestsData[guestId2];
+        let nfcId2 = guest2.nfcId;
+
+        if (nfcId === nfcId2 && guestId !== guestId2) {
+          duplicates.push({
+            guestId: guestId,
+            guestId2: guestId2,
+            name: guest.name,
+            name2: guest2.name,
+            nfcId: nfcId,
+          });
+        }
+      }
+    }
+  }
+
+  return duplicates;
+}
+
+console.log(`DUPLICATE NFC ID ASSOCIATIONS:`);
+console.log(findDuplicates());
