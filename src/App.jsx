@@ -13,7 +13,6 @@ import calendarData from "../data/calendar_data.json";
 
 const App = () => {
   const appStoreConnected = useGetValue("AppStoreDistributed_CONNECTED", null);
-  const NFC_UID = useGetValue("NFC_UID", null);
   const GUEST_1 = useGetValue("GUEST_1", null);
   useStoreListeners();
 
@@ -28,9 +27,6 @@ const App = () => {
   return (
     <div className="App">
       <AppStoreDebug />
-      <h3 style={{ position: "absolute", right: "10px" }}>
-        NFC UID: {NFC_UID || "NOT FOUND"}
-      </h3>
       <div
         style={{
           display: "flex",
