@@ -32,13 +32,15 @@ const App = () => {
           display: "flex",
           flexDirection: "column",
           justifyContent: "space-between",
+          gap: "20px",
           height: "calc(100vh - 2rem)",
         }}
       >
+        <Calendar />
         <div
           style={{
             display: "grid",
-            gridTemplateColumns: "repeat(12, 1fr)",
+            gridTemplateColumns: "repeat(9, 1fr)",
             gap: "10px",
             height: "800px",
             overflow: "hidden",
@@ -48,7 +50,6 @@ const App = () => {
           {GUEST_1 && <Connections />}
           {GUEST_1 && <Moments />}
         </div>
-        <Calendar />
       </div>
     </div>
   );

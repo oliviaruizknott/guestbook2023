@@ -1,5 +1,5 @@
 :root {
-  font-family: Inter, Avenir, Helvetica, Arial, sans-serif;
+  font-family: serif;
   font-size: 16px;
   line-height: 24px;
   font-weight: 400;
@@ -56,10 +56,37 @@ button:focus-visible {
 }
 
 .section-header {
+  font-family: monospace;
   font-weight: bold;
-  font-size: 1.2rem;
+  font-size: 24px;
   text-transform: uppercase;
   margin-bottom: 1rem;
+}
+
+.list-item {
+  display: flex;
+  align-items: baseline;
+}
+
+.list-item .count {
+  font-family: monospace;
+  font-size: 16px;
+  font-weight: bold;
+
+  width: 20px;
+  text-align: right;
+  margin-right: 8px;
+}
+
+.list-item .name {
+  font-size: 16px;
+  font-weight: 400;
+}
+
+.guest-big {
+  font-size: 136px;
+  line-height: 122.4px;
+  max-width: 300px;
 }
 
 .week {
@@ -67,6 +94,10 @@ button:focus-visible {
   flex-direction: column;
   justify-content: space-between;
   gap: 5px;
+}
+
+.week.labels {
+  font-family: monospace;
 }
 
 .day-container {
@@ -82,5 +113,5 @@ button:focus-visible {
   border-radius: 50%;
   height: 15px;
   background-color: #212249;
-  transition: height 0.3s ease, background-color 0.3s ease;
+  transition: height 0.75s ease, background-color 0.75s ease;
 }

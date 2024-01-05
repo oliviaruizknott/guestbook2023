@@ -40,8 +40,9 @@ const Moments = () => {
           {MOMENT_IDS.map((momentId) => {
             const momentData = MOMENTS_DATA[momentId];
             return (
-              <div key={momentId}>
-                {momentData.guest_count} {momentData.title}
+              <div key={momentId} className="list-item">
+                <div className="count">{momentData.guest_count}</div>
+                <div className="name">{momentData.title}</div>
               </div>
             );
           })}
@@ -51,7 +52,7 @@ const Moments = () => {
   }, [MOMENTS_DATA, MOMENT_IDS]);
 
   return (
-    <div className="Moments section" style={{ gridColumn: "span 5" }}>
+    <div className="Moments section" style={{ gridColumn: "span 3" }}>
       {MOMENTS_DATA && MOMENT_IDS && renderMoments()}
     </div>
   );

@@ -14,7 +14,7 @@ const Guests = () => {
   );
 
   const columnCount = useMemo(() => {
-    return GUEST_1 ? "span 2" : "span 12";
+    return GUEST_1 ? "span 3" : "span 9";
   }, [GUEST_1]);
 
   const renderGuests = useCallback(() => {
@@ -24,7 +24,7 @@ const Guests = () => {
         <div className="section-header">{guestCount} People</div>
         <div
           style={{
-            columnCount: "8",
+            columnCount: "9",
             columnGap: "10px",
             columnFill: "auto",
             height: "450px",
@@ -34,8 +34,14 @@ const Guests = () => {
             .sort((a, b) => b[1].connections_count - a[1].connections_count)
             .map(([key, value]) => {
               return (
-                <div key={key} data-guestid={key} onClick={handleGuestClick}>
-                  {value.connections_count} {value.name}
+                <div
+                  key={key}
+                  data-guestid={key}
+                  onClick={handleGuestClick}
+                  className="list-item"
+                >
+                  <div className="count">{value.connections_count}</div>
+                  <div className="name">{value.name}</div>
                 </div>
               );
             })}
@@ -48,7 +54,7 @@ const Guests = () => {
     return (
       <div>
         <div className="section-header">Person</div>
-        <div>{GUESTS_DATA[GUEST_1].name}</div>
+        <div className="guest-big">{GUESTS_DATA[GUEST_1].name}</div>
         <div onClick={() => setValue("GUEST_1", null)}>X</div>
       </div>
     );
