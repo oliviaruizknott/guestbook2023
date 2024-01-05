@@ -6,6 +6,10 @@ body {
   width: 500px;
 }
 
+#status {
+  margin-bottom: 10px;
+}
+
 th {
   text-align: left;
   min-width: 50px;

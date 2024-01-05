@@ -63,7 +63,6 @@ button:focus-visible {
 }
 
 .week {
-  height: 200px;
   display: flex;
   flex-direction: column;
   justify-content: space-between;
@@ -74,7 +73,7 @@ button:focus-visible {
   display: flex;
   justify-content: center;
   align-items: center;
-  height: 25px;
+  height: 30px;
   aspect-ratio: 1;
 }
 
@@ -82,5 +81,6 @@ button:focus-visible {
   aspect-ratio: 1;
   border-radius: 50%;
   height: 15px;
-  background: #212249;
+  background-color: #212249;
+  transition: height 0.3s ease, background-color 0.3s ease;
 }

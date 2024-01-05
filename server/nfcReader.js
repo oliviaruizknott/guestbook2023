@@ -1,9 +1,9 @@
 import { NFC } from "nfc-pcsc";
 
 export default class NfcReader {
-  constructor(broadcast = null) {
-    this.broadcast = broadcast;
+  constructor() {
     this.nfc = null;
+    this.onCardCallback = null;
     this.initialize();
   }
 
@@ -32,8 +32,8 @@ export default class NfcReader {
           const payload = data.toString(); // utf8 is default encoding
           console.log(`data converted `, payload);
 
-          if (this.broadcast) {
-            this.broadcast(
+          if (this.onCardCallback) {
+            this.onCardCallback(
               JSON.stringify({
                 key: "NFC_UID",
                 value: card.uid,
@@ -50,8 +50,8 @@ export default class NfcReader {
       reader.on("card.off", (card) => {
         console.log(`${reader.reader.name}  card removed`);
 
-        if (this.broadcast) {
-          this.broadcast(
+        if (this.onCardCallback) {
+          this.onCardCallback(
             JSON.stringify({
               key: "NFC_UID",
               value: "",
@@ -74,5 +74,9 @@ export default class NfcReader {
     this.nfc.on("error", (err) => {
       console.log("an error occurred", err);
     });
+  }
+
+  setOnCardCallback(callback) {
+    this.onCardCallback = callback;
   }
 }

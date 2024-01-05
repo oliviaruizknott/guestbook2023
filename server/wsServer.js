@@ -8,6 +8,8 @@ export default class WsServer {
     this.wssPort = port || 8082;
     this.wss = null;
     this.clients = {};
+    this.onConnectionCallback = null;
+    this.onMessageCallback = null;
     this.initialize();
     this.sendToAll = this.sendToAll.bind(this);
   }
@@ -41,6 +43,9 @@ export default class WsServer {
       console.log(this.clients);
 
       ws.send(JSON.stringify(`👋 Welcome to the server!`));
+      if (this.onConnectionCallback) {
+        this.onConnectionCallback();
+      }
 
       ws.on("message", (data, isBinary) => {
         // log the message to the server console
@@ -48,6 +53,9 @@ export default class WsServer {
 
         // relay message to all clients
         this.sendToAll(data, isBinary);
+        if (this.onMessageCallback) {
+          this.onMessageCallback(data);
+        }
       });
 
       ws.on("close", () => {
@@ -59,5 +67,13 @@ export default class WsServer {
         this.sendToAll(JSON.stringify(`💔 Someone left.`));
       });
     });
+  }
+
+  setOnConnectionCallback(callback) {
+    this.onConnectionCallback = callback;
+  }
+
+  setOnMessageCallback(callback) {
+    this.onMessageCallback = callback;
   }
 }

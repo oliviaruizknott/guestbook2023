@@ -8,7 +8,7 @@ export default defineConfig({
     rollupOptions: {
       input: {
         main: resolve(__dirname, "index.html"),
-        configuration: resolve(__dirname, "configuration/index.html"),
+        configuration: resolve(__dirname, "nfcConfiguration/index.html"),
       },
     },
   },
