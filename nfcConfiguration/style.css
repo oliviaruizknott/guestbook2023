@@ -1,5 +1,7 @@
 body {
   font-family: monospace;
+  display: flex;
+  justify-content: center;
 }
 
 #app {

@@ -8,6 +8,10 @@ const guestsData = JSON.parse(
   fs.readFileSync("./data/guests_data.json", { encoding: "utf8" })
 );
 
+const idData = JSON.parse(
+  fs.readFileSync("./data/nfc_guest_ids.json", { encoding: "utf8" })
+);
+
 class NFCConfigurator {
   constructor() {
     this.wsServer = null;
@@ -17,7 +21,7 @@ class NFCConfigurator {
     this.scannedNfcUid = null;
 
     this.guestsData = guestsData;
-    this.idData = {};
+    this.idData = idData;
 
     this.processWsMessage = this.processWsMessage.bind(this);
     this.onCardRead = this.onCardRead.bind(this);
