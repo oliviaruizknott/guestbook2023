@@ -14,29 +14,18 @@ const nfcReader = new NfcReader();
 const processNfcData = (data) => {
   console.log(`[SERVER]: received data from nfc reader: ${data}`);
   data = JSON.parse(data);
-  if (data.key === "NFC_UID") {
-    if (!data.value) {
-      wsServer.sendToAll(
-        JSON.stringify({
-          key: "GUEST_1",
-          value: "",
-          type: "string",
-          store: "true",
-        })
-      );
-    }
 
-    const guestId = idMap[data.value];
-    console.log(`[SERVER]: guestId is ${guestId}`);
-    wsServer.sendToAll(
-      JSON.stringify({
-        key: "GUEST_1",
-        value: guestId,
-        type: "string",
-        store: "true",
-      })
-    );
-  }
+  const guestKey = data.readerId === 2 ? "GUEST_2" : "GUEST_1";
+  const guestValue = data.value ? idMap[data.value] : "";
+
+  wsServer.sendToAll(
+    JSON.stringify({
+      key: guestKey,
+      value: guestValue,
+      type: "string",
+      store: "true",
+    })
+  );
 };
 
 nfcReader.setOnCardCallback(processNfcData);

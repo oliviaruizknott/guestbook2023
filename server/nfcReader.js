@@ -9,8 +9,14 @@ export default class NfcReader {
 
   initialize() {
     this.nfc = new NFC(); // optionally you can pass logger
+    let readerIndex = 1; // Initialize reader index; this is so that each reader can be identified by a unique id
+
     this.nfc.on("reader", (reader) => {
-      console.log(`${reader.reader.name}  device attached`);
+      const currentReaderIndex = readerIndex++; // Increment reader index for the next reader
+
+      console.log(
+        `${reader.reader.name} (${currentReaderIndex})  device attached`
+      );
 
       reader.on("card", async (card) => {
         // card is object containing following data
@@ -22,15 +28,14 @@ export default class NfcReader {
         console.log(`${reader.reader.name}  card detected`, card);
 
         try {
-          // example reading 12 bytes assuming containing text in utf8
-          // const data = await reader.read(4, 12); // starts reading in block 4, continues to 5 and 6 in order to read 12 bytes
-
-          // example reading up to 100 bytes
-          const data = await reader.read(0, 100);
-
-          console.log(`data read`, data);
-          const payload = data.toString(); // utf8 is default encoding
-          console.log(`data converted `, payload);
+          // // NOTE: We don’t care about the data on the card for this project, we just want the UID; so this is commented out for now.
+          // // example reading 12 bytes assuming containing text in utf8
+          // // const data = await reader.read(4, 12); // starts reading in block 4, continues to 5 and 6 in order to read 12 bytes
+          // // example reading up to 100 bytes
+          // const data = await reader.read(0, 100);
+          // console.log(`data read`, data);
+          // const payload = data.toString(); // utf8 is default encoding
+          // console.log(`data converted `, payload);
 
           if (this.onCardCallback) {
             this.onCardCallback(
@@ -39,6 +44,7 @@ export default class NfcReader {
                 value: card.uid,
                 type: "string",
                 store: "true",
+                readerId: currentReaderIndex,
               })
             );
           }
@@ -57,6 +63,7 @@ export default class NfcReader {
               value: "",
               type: "string",
               store: "true",
+              readerId: currentReaderIndex,
             })
           );
         }

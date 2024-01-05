@@ -13,7 +13,7 @@ export const useStoreListeners = () => {
     if (GUEST_1 && !GUEST_2)
       setValue("MOMENT_IDS", GUESTS_DATA[GUEST_1].moments);
     if (GUEST_1 && GUEST_2) {
-      const moments = GUESTS_DATA[GUEST_1].connections[GUEST_2].moments;
+      const moments = GUESTS_DATA[GUEST_1].connections[GUEST_2]?.moments || [];
       setValue("MOMENT_IDS", moments);
     }
   }, [GUEST_1, GUEST_2]);
