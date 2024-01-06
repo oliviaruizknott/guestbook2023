@@ -13,8 +13,14 @@ const Moments = () => {
 
     if (!GUEST_1) return <>{Object.keys(MOMENTS_DATA).length} Moments</>;
 
-    if (GUEST_1 && !GUEST_2 && MOMENT_IDS)
-      return <>{Object.keys(MOMENT_IDS).length} Moments</>;
+    if (GUEST_1 && !GUEST_2 && MOMENT_IDS) {
+      const momentText = MOMENT_IDS.length === 1 ? "Moment" : "Moments";
+      return (
+        <>
+          {MOMENT_IDS.length} {momentText}
+        </>
+      );
+    }
 
     if (GUEST_1 && GUEST_2 && MOMENT_IDS)
       return (

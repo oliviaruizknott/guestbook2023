@@ -15,11 +15,13 @@ const Connections = () => {
     if (!GUESTS_DATA || !GUEST_1) return;
     const guestConnections = GUESTS_DATA[GUEST_1].connections;
     const guestConnectionsCount = Object.keys(guestConnections).length;
+    const guestConnectionsText =
+      guestConnectionsCount === 1 ? "Connection" : "Connections";
 
     return (
       <>
         <div className="section-header">
-          {guestConnectionsCount} Connections
+          {guestConnectionsCount} {guestConnectionsText}
         </div>
         <div
           style={{
