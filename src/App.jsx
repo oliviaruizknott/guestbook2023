@@ -24,6 +24,16 @@ const App = () => {
     setValue("CALENDAR_DATA", calendarData);
   }, [appStoreConnected, guestsData, momentsData, calendarData]);
 
+  // add key down listeners: remove guest 1 when 1 is pressed, remove guest 2 when 2 is pressed
+  useEffect(() => {
+    const handleKeyDown = (e) => {
+      if (e.key === "1") setValue("GUEST_1", null);
+      if (e.key === "2") setValue("GUEST_2", null);
+    };
+    document.addEventListener("keydown", handleKeyDown);
+    return () => document.removeEventListener("keydown", handleKeyDown);
+  }, []);
+
   return (
     <div className="App">
       <AppStoreDebug />

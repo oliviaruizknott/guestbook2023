@@ -117,10 +117,6 @@ button:focus-visible {
   max-width: 300px;
 }
 
-.close {
-  font-family: "RK Mono", monospace;
-}
-
 .week {
   display: flex;
   flex-direction: column;

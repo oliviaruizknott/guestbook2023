@@ -30,7 +30,13 @@ const Connections = () => {
           }}
         >
           {Object.entries(guestConnections)
-            .sort((a, b) => b[1].count - a[1].count)
+            .sort((a, b) => {
+              // first by count
+              if (b[1].count !== a[1].count) {
+                return b[1].count - a[1].count;
+              }
+              return a[1].name.localeCompare(b[1].name); // then by name
+            })
             .map(([key, value]) => {
               return (
                 <div
@@ -57,9 +63,6 @@ const Connections = () => {
         <div className="section-header">was with</div>
         <div>
           <div className="guest-big">{GUESTS_DATA[GUEST_2].name}</div>
-          <div className="close" onClick={() => setValue("GUEST_2", null)}>
-            x
-          </div>
         </div>
       </>
     );

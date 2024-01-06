@@ -31,7 +31,7 @@ const Guests = () => {
           }}
         >
           {Object.entries(GUESTS_DATA)
-            .sort((a, b) => b[1].connections_count - a[1].connections_count)
+            .sort((a, b) => a[1].name.localeCompare(b[1].name))
             .map(([key, value]) => {
               return (
                 <div
@@ -55,9 +55,6 @@ const Guests = () => {
       <div>
         <div className="section-header">Person</div>
         <div className="guest-big">{GUESTS_DATA[GUEST_1].name}</div>
-        <div className="close" onClick={() => setValue("GUEST_1", null)}>
-          x
-        </div>
       </div>
     );
   }, [GUESTS_DATA, GUEST_1]);
