@@ -10,6 +10,7 @@ import Moments from "./components/Moments";
 import guestsData from "../data/guests_data.json";
 import momentsData from "../data/moments_data.json";
 import calendarData from "../data/calendar_data.json";
+import overnightsData from "../data/overnights_data.json";
 
 const App = () => {
   const appStoreConnected = useGetValue("AppStoreDistributed_CONNECTED", null);
@@ -22,6 +23,7 @@ const App = () => {
     setValue("GUESTS_DATA", guestsData);
     setValue("MOMENTS_DATA", momentsData);
     setValue("CALENDAR_DATA", calendarData);
+    setValue("OVERNIGHTS_DATA", overnightsData);
   }, [appStoreConnected, guestsData, momentsData, calendarData]);
 
   // add key down listeners: remove guest 1 when 1 is pressed, remove guest 2 when 2 is pressed

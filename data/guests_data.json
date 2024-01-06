@@ -14,7 +14,7 @@
         "moments": [784, 798, 826, 839, 843, 851, 870, 876, 902, 906]
       },
       "315": {
-        "name": "Jose Briones-Siria",
+        "name": "Jos\u00e9 Briones-Siria",
         "count": 12,
         "moments": [788, 798, 804, 811, 826, 843, 875, 876, 881, 884, 896, 904]
       },
@@ -123,7 +123,7 @@
         "count": 4,
         "moments": [839, 881, 894, 906]
       },
-      "364": { "name": "Katherine MakeTime", "count": 1, "moments": [839] },
+      "364": { "name": "Katherine Crawford", "count": 1, "moments": [839] },
       "365": { "name": "Daniel Richter", "count": 2, "moments": [839, 876] },
       "357": {
         "name": "Rachelle Richter",
@@ -174,7 +174,7 @@
       "382": { "name": "Dana Wilson", "count": 2, "moments": [876, 881] },
       "258": { "name": "Elizabeth Moffatt", "count": 1, "moments": [881] },
       "397": { "name": "Youyang Zhao", "count": 2, "moments": [881, 906] },
-      "398": { "name": "Kristen (w/ Aubrey)", "count": 1, "moments": [881] },
+      "398": { "name": "Kristen Orzel", "count": 1, "moments": [881] },
       "72": { "name": "Jason Lemon", "count": 1, "moments": [881] },
       "339": { "name": "Rex Pham", "count": 1, "moments": [881] },
       "403": {
@@ -184,7 +184,7 @@
       },
       "404": { "name": "Ankit Patel", "count": 1, "moments": [894] },
       "405": { "name": "Desiree Starzyk", "count": 1, "moments": [894] },
-      "406": { "name": "Paul (w/ Lexi)", "count": 1, "moments": [894] },
+      "406": { "name": "Paul Yoo", "count": 1, "moments": [894] },
       "407": { "name": "Elaine French", "count": 1, "moments": [894] },
       "408": { "name": "Dan Adarme", "count": 1, "moments": [894] },
       "409": { "name": "Tim Coan", "count": 1, "moments": [894] },
@@ -207,7 +207,9 @@
       875, 876, 878, 880, 881, 883, 884, 886, 892, 894, 895, 896, 902, 903, 904,
       906, 908, 909, 910
     ],
-    "moments_count": 64
+    "moments_count": 64,
+    "overnights": [],
+    "overnights_count": 0
   },
   "347": {
     "name": "Zachary Kaluza",
@@ -271,7 +273,7 @@
       },
       "322": { "name": "Jill DeBiase", "count": 3, "moments": [798, 863, 906] },
       "315": {
-        "name": "Jose Briones-Siria",
+        "name": "Jos\u00e9 Briones-Siria",
         "count": 5,
         "moments": [798, 812, 826, 843, 876]
       },
@@ -328,7 +330,7 @@
         "count": 3,
         "moments": [839, 850, 906]
       },
-      "364": { "name": "Katherine MakeTime", "count": 1, "moments": [839] },
+      "364": { "name": "Katherine Crawford", "count": 1, "moments": [839] },
       "365": { "name": "Daniel Richter", "count": 2, "moments": [839, 876] },
       "368": {
         "name": "Daniel Evan Quay",
@@ -384,7 +386,7 @@
       "381": { "name": "Max Lotsein", "count": 3, "moments": [863, 876, 891] },
       "382": { "name": "Dana Wilson", "count": 2, "moments": [863, 876] },
       "149": { "name": "Maria Simone Weithers", "count": 1, "moments": [863] },
-      "383": { "name": "Niera (w/ Zack)", "count": 1, "moments": [863] },
+      "383": { "name": "Niera Nez", "count": 1, "moments": [863] },
       "277": { "name": "Victoria Donovan", "count": 1, "moments": [866] },
       "10": { "name": "Timothy Rodriguez", "count": 1, "moments": [873] },
       "279": { "name": "Ricky Alarcon", "count": 1, "moments": [876] },
@@ -417,7 +419,9 @@
       784, 798, 812, 826, 839, 843, 850, 851, 862, 863, 866, 870, 873, 876, 891,
       902, 905, 906
     ],
-    "moments_count": 18
+    "moments_count": 18,
+    "overnights": [],
+    "overnights_count": 0
   },
   "320": {
     "name": "Mary Ann Tate",
@@ -472,7 +476,7 @@
         "moments": [798, 826, 876, 881, 894]
       },
       "315": {
-        "name": "Jose Briones-Siria",
+        "name": "Jos\u00e9 Briones-Siria",
         "count": 5,
         "moments": [798, 812, 826, 876, 881]
       },
@@ -571,7 +575,7 @@
       "381": { "name": "Max Lotsein", "count": 2, "moments": [863, 876] },
       "382": { "name": "Dana Wilson", "count": 3, "moments": [863, 876, 881] },
       "149": { "name": "Maria Simone Weithers", "count": 1, "moments": [863] },
-      "383": { "name": "Niera (w/ Zack)", "count": 1, "moments": [863] },
+      "383": { "name": "Niera Nez", "count": 1, "moments": [863] },
       "279": { "name": "Ricky Alarcon", "count": 1, "moments": [876] },
       "384": {
         "name": "Micah Goldstein",
@@ -593,26 +597,28 @@
       "396": { "name": "Elizabeth Beaudoin", "count": 1, "moments": [876] },
       "258": { "name": "Elizabeth Moffatt", "count": 1, "moments": [881] },
       "397": { "name": "Youyang Zhao", "count": 1, "moments": [881] },
-      "398": { "name": "Kristen (w/ Aubrey)", "count": 1, "moments": [881] },
+      "398": { "name": "Kristen Orzel", "count": 1, "moments": [881] },
       "72": { "name": "Jason Lemon", "count": 1, "moments": [881] },
       "339": { "name": "Rex Pham", "count": 1, "moments": [881] },
       "403": { "name": "Justin Schaffer", "count": 1, "moments": [894] },
       "404": { "name": "Ankit Patel", "count": 1, "moments": [894] },
       "405": { "name": "Desiree Starzyk", "count": 1, "moments": [894] },
-      "406": { "name": "Paul (w/ Lexi)", "count": 1, "moments": [894] },
+      "406": { "name": "Paul Yoo", "count": 1, "moments": [894] },
       "407": { "name": "Elaine French", "count": 1, "moments": [894] },
       "408": { "name": "Dan Adarme", "count": 1, "moments": [894] },
       "409": { "name": "Tim Coan", "count": 1, "moments": [894] }
     },
     "connections_count": 81,
     "moments": [798, 812, 826, 850, 857, 863, 876, 877, 881, 894, 913],
-    "moments_count": 11
+    "moments_count": 11,
+    "overnights": [],
+    "overnights_count": 0
   },
   "323": {
     "name": "Greg Edelston",
     "connections": {
       "315": {
-        "name": "Jose Briones-Siria",
+        "name": "Jos\u00e9 Briones-Siria",
         "count": 4,
         "moments": [788, 798, 876, 881]
       },
@@ -718,7 +724,7 @@
       },
       "382": { "name": "Dana Wilson", "count": 3, "moments": [863, 876, 881] },
       "149": { "name": "Maria Simone Weithers", "count": 1, "moments": [863] },
-      "383": { "name": "Niera (w/ Zack)", "count": 1, "moments": [863] },
+      "383": { "name": "Niera Nez", "count": 1, "moments": [863] },
       "274": {
         "name": "Jason Baca",
         "count": 4,
@@ -753,7 +759,7 @@
       "258": { "name": "Elizabeth Moffatt", "count": 1, "moments": [881] },
       "157": { "name": "Paola Caceres", "count": 2, "moments": [881, 906] },
       "397": { "name": "Youyang Zhao", "count": 2, "moments": [881, 906] },
-      "398": { "name": "Kristen (w/ Aubrey)", "count": 1, "moments": [881] },
+      "398": { "name": "Kristen Orzel", "count": 1, "moments": [881] },
       "72": { "name": "Jason Lemon", "count": 1, "moments": [881] },
       "339": { "name": "Rex Pham", "count": 1, "moments": [881] },
       "414": { "name": "Jackie Rivera", "count": 1, "moments": [906] },
@@ -772,7 +778,9 @@
     },
     "connections_count": 78,
     "moments": [788, 798, 863, 876, 881, 906, 915],
-    "moments_count": 7
+    "moments_count": 7,
+    "overnights": [],
+    "overnights_count": 0
   },
   "286": {
     "name": "Danielle Vinson",
@@ -830,7 +838,7 @@
         "moments": [798, 811, 843, 870, 875, 876, 884, 894, 903]
       },
       "315": {
-        "name": "Jose Briones-Siria",
+        "name": "Jos\u00e9 Briones-Siria",
         "count": 7,
         "moments": [798, 811, 812, 843, 875, 876, 884]
       },
@@ -898,7 +906,7 @@
       },
       "382": { "name": "Dana Wilson", "count": 2, "moments": [863, 876] },
       "149": { "name": "Maria Simone Weithers", "count": 1, "moments": [863] },
-      "383": { "name": "Niera (w/ Zack)", "count": 1, "moments": [863] },
+      "383": { "name": "Niera Nez", "count": 1, "moments": [863] },
       "274": { "name": "Jason Baca", "count": 2, "moments": [863, 876] },
       "277": { "name": "Victoria Donovan", "count": 2, "moments": [866, 875] },
       "10": { "name": "Timothy Rodriguez", "count": 1, "moments": [873] },
@@ -932,7 +940,7 @@
       "404": { "name": "Ankit Patel", "count": 1, "moments": [894] },
       "363": { "name": "Simon Goldstein", "count": 1, "moments": [894] },
       "405": { "name": "Desiree Starzyk", "count": 1, "moments": [894] },
-      "406": { "name": "Paul (w/ Lexi)", "count": 1, "moments": [894] },
+      "406": { "name": "Paul Yoo", "count": 1, "moments": [894] },
       "407": { "name": "Elaine French", "count": 1, "moments": [894] },
       "408": { "name": "Dan Adarme", "count": 1, "moments": [894] },
       "409": { "name": "Tim Coan", "count": 1, "moments": [894] }
@@ -942,13 +950,15 @@
       790, 795, 798, 801, 811, 812, 814, 843, 845, 862, 863, 866, 870, 873, 875,
       876, 884, 891, 894, 903
     ],
-    "moments_count": 20
+    "moments_count": 20,
+    "overnights": [],
+    "overnights_count": 0
   },
   "337": {
     "name": "David Wang",
     "connections": {
       "315": {
-        "name": "Jose Briones-Siria",
+        "name": "Jos\u00e9 Briones-Siria",
         "count": 4,
         "moments": [788, 798, 876, 881]
       },
@@ -1032,7 +1042,7 @@
         "count": 3,
         "moments": [839, 876, 881]
       },
-      "364": { "name": "Katherine MakeTime", "count": 1, "moments": [839] },
+      "364": { "name": "Katherine Crawford", "count": 1, "moments": [839] },
       "365": { "name": "Daniel Richter", "count": 2, "moments": [839, 876] },
       "357": {
         "name": "Rachelle Richter",
@@ -1076,7 +1086,7 @@
       "381": { "name": "Max Lotsein", "count": 2, "moments": [863, 876] },
       "382": { "name": "Dana Wilson", "count": 3, "moments": [863, 876, 881] },
       "149": { "name": "Maria Simone Weithers", "count": 1, "moments": [863] },
-      "383": { "name": "Niera (w/ Zack)", "count": 1, "moments": [863] },
+      "383": { "name": "Niera Nez", "count": 1, "moments": [863] },
       "274": {
         "name": "Jason Baca",
         "count": 4,
@@ -1106,7 +1116,7 @@
       "371": { "name": "Sresht Rengesh", "count": 2, "moments": [876, 906] },
       "258": { "name": "Elizabeth Moffatt", "count": 1, "moments": [881] },
       "397": { "name": "Youyang Zhao", "count": 2, "moments": [881, 906] },
-      "398": { "name": "Kristen (w/ Aubrey)", "count": 1, "moments": [881] },
+      "398": { "name": "Kristen Orzel", "count": 1, "moments": [881] },
       "72": { "name": "Jason Lemon", "count": 1, "moments": [881] },
       "339": { "name": "Rex Pham", "count": 1, "moments": [881] },
       "414": { "name": "Jackie Rivera", "count": 1, "moments": [906] },
@@ -1122,7 +1132,9 @@
     },
     "connections_count": 76,
     "moments": [788, 798, 839, 863, 876, 881, 906],
-    "moments_count": 7
+    "moments_count": 7,
+    "overnights": [],
+    "overnights_count": 0
   },
   "272": {
     "name": "David Shibley",
@@ -1180,7 +1192,7 @@
         "moments": [798, 811, 843, 870, 875, 876, 884, 894]
       },
       "315": {
-        "name": "Jose Briones-Siria",
+        "name": "Jos\u00e9 Briones-Siria",
         "count": 7,
         "moments": [798, 811, 812, 843, 875, 876, 884]
       },
@@ -1246,7 +1258,7 @@
       },
       "382": { "name": "Dana Wilson", "count": 2, "moments": [863, 876] },
       "149": { "name": "Maria Simone Weithers", "count": 1, "moments": [863] },
-      "383": { "name": "Niera (w/ Zack)", "count": 1, "moments": [863] },
+      "383": { "name": "Niera Nez", "count": 1, "moments": [863] },
       "274": { "name": "Jason Baca", "count": 2, "moments": [863, 876] },
       "277": { "name": "Victoria Donovan", "count": 2, "moments": [866, 875] },
       "10": { "name": "Timothy Rodriguez", "count": 1, "moments": [873] },
@@ -1280,7 +1292,7 @@
       "404": { "name": "Ankit Patel", "count": 1, "moments": [894] },
       "363": { "name": "Simon Goldstein", "count": 1, "moments": [894] },
       "405": { "name": "Desiree Starzyk", "count": 1, "moments": [894] },
-      "406": { "name": "Paul (w/ Lexi)", "count": 1, "moments": [894] },
+      "406": { "name": "Paul Yoo", "count": 1, "moments": [894] },
       "407": { "name": "Elaine French", "count": 1, "moments": [894] },
       "408": { "name": "Dan Adarme", "count": 1, "moments": [894] },
       "409": { "name": "Tim Coan", "count": 1, "moments": [894] }
@@ -1290,7 +1302,9 @@
       790, 798, 811, 812, 814, 843, 862, 863, 866, 870, 873, 875, 876, 884, 891,
       894
     ],
-    "moments_count": 16
+    "moments_count": 16,
+    "overnights": [],
+    "overnights_count": 0
   },
   "362": {
     "name": "Elijah Durso-Sabina",
@@ -1336,7 +1350,7 @@
         "moments": [826, 839, 876, 881, 894]
       },
       "315": {
-        "name": "Jose Briones-Siria",
+        "name": "Jos\u00e9 Briones-Siria",
         "count": 3,
         "moments": [826, 876, 881]
       },
@@ -1345,7 +1359,7 @@
         "count": 4,
         "moments": [839, 850, 881, 894]
       },
-      "364": { "name": "Katherine MakeTime", "count": 1, "moments": [839] },
+      "364": { "name": "Katherine Crawford", "count": 1, "moments": [839] },
       "337": {
         "name": "David Wang",
         "count": 4,
@@ -1430,7 +1444,7 @@
       },
       "382": { "name": "Dana Wilson", "count": 3, "moments": [863, 876, 881] },
       "149": { "name": "Maria Simone Weithers", "count": 1, "moments": [863] },
-      "383": { "name": "Niera (w/ Zack)", "count": 1, "moments": [863] },
+      "383": { "name": "Niera Nez", "count": 1, "moments": [863] },
       "279": { "name": "Ricky Alarcon", "count": 1, "moments": [876] },
       "384": {
         "name": "Micah Goldstein",
@@ -1454,24 +1468,26 @@
       "258": { "name": "Elizabeth Moffatt", "count": 1, "moments": [881] },
       "397": { "name": "Youyang Zhao", "count": 1, "moments": [881] },
       "340": { "name": "Aubrey Aronson", "count": 1, "moments": [881] },
-      "398": { "name": "Kristen (w/ Aubrey)", "count": 1, "moments": [881] },
+      "398": { "name": "Kristen Orzel", "count": 1, "moments": [881] },
       "72": { "name": "Jason Lemon", "count": 1, "moments": [881] },
       "339": { "name": "Rex Pham", "count": 1, "moments": [881] },
       "354": { "name": "Molly Kennedy", "count": 1, "moments": [881] },
       "403": { "name": "Justin Schaffer", "count": 1, "moments": [894] },
       "404": { "name": "Ankit Patel", "count": 1, "moments": [894] },
       "405": { "name": "Desiree Starzyk", "count": 1, "moments": [894] },
-      "406": { "name": "Paul (w/ Lexi)", "count": 1, "moments": [894] },
+      "406": { "name": "Paul Yoo", "count": 1, "moments": [894] },
       "407": { "name": "Elaine French", "count": 1, "moments": [894] },
       "408": { "name": "Dan Adarme", "count": 1, "moments": [894] },
       "409": { "name": "Tim Coan", "count": 1, "moments": [894] }
     },
     "connections_count": 74,
     "moments": [826, 839, 850, 863, 876, 881, 894, 898],
-    "moments_count": 8
+    "moments_count": 8,
+    "overnights": [],
+    "overnights_count": 0
   },
   "315": {
-    "name": "Jose Briones-Siria",
+    "name": "Jos\u00e9 Briones-Siria",
     "connections": {
       "316": {
         "name": "Melissa Briones-Siria",
@@ -1618,7 +1634,7 @@
       "363": { "name": "Simon Goldstein", "count": 1, "moments": [881] },
       "258": { "name": "Elizabeth Moffatt", "count": 1, "moments": [881] },
       "397": { "name": "Youyang Zhao", "count": 1, "moments": [881] },
-      "398": { "name": "Kristen (w/ Aubrey)", "count": 1, "moments": [881] },
+      "398": { "name": "Kristen Orzel", "count": 1, "moments": [881] },
       "72": { "name": "Jason Lemon", "count": 1, "moments": [881] },
       "339": { "name": "Rex Pham", "count": 1, "moments": [881] },
       "314": { "name": "Drew Jackson", "count": 2, "moments": [904, 911] },
@@ -1629,13 +1645,15 @@
       788, 798, 804, 811, 812, 826, 832, 841, 843, 853, 854, 872, 875, 876, 881,
       884, 896, 904, 911
     ],
-    "moments_count": 19
+    "moments_count": 19,
+    "overnights": [],
+    "overnights_count": 0
   },
   "338": {
     "name": "Sara Whitby",
     "connections": {
       "315": {
-        "name": "Jose Briones-Siria",
+        "name": "Jos\u00e9 Briones-Siria",
         "count": 4,
         "moments": [788, 798, 876, 881]
       },
@@ -1743,7 +1761,7 @@
       "258": { "name": "Elizabeth Moffatt", "count": 1, "moments": [881] },
       "157": { "name": "Paola Caceres", "count": 2, "moments": [881, 906] },
       "397": { "name": "Youyang Zhao", "count": 2, "moments": [881, 906] },
-      "398": { "name": "Kristen (w/ Aubrey)", "count": 1, "moments": [881] },
+      "398": { "name": "Kristen Orzel", "count": 1, "moments": [881] },
       "72": { "name": "Jason Lemon", "count": 1, "moments": [881] },
       "339": { "name": "Rex Pham", "count": 1, "moments": [881] },
       "414": { "name": "Jackie Rivera", "count": 1, "moments": [906] },
@@ -1765,7 +1783,9 @@
     },
     "connections_count": 72,
     "moments": [788, 798, 876, 881, 906],
-    "moments_count": 5
+    "moments_count": 5,
+    "overnights": [],
+    "overnights_count": 0
   },
   "350": {
     "name": "Jeremy Thomas",
@@ -1779,7 +1799,7 @@
         ]
       },
       "315": {
-        "name": "Jose Briones-Siria",
+        "name": "Jos\u00e9 Briones-Siria",
         "count": 7,
         "moments": [804, 812, 832, 841, 854, 881, 911]
       },
@@ -1868,7 +1888,7 @@
         "count": 4,
         "moments": [839, 850, 881, 906]
       },
-      "364": { "name": "Katherine MakeTime", "count": 1, "moments": [839] },
+      "364": { "name": "Katherine Crawford", "count": 1, "moments": [839] },
       "337": { "name": "David Wang", "count": 3, "moments": [839, 881, 906] },
       "365": { "name": "Daniel Richter", "count": 1, "moments": [839] },
       "52": { "name": "Patrick McAnneny", "count": 1, "moments": [845] },
@@ -1902,7 +1922,7 @@
       "397": { "name": "Youyang Zhao", "count": 2, "moments": [881, 906] },
       "382": { "name": "Dana Wilson", "count": 1, "moments": [881] },
       "340": { "name": "Aubrey Aronson", "count": 1, "moments": [881] },
-      "398": { "name": "Kristen (w/ Aubrey)", "count": 1, "moments": [881] },
+      "398": { "name": "Kristen Orzel", "count": 1, "moments": [881] },
       "72": { "name": "Jason Lemon", "count": 1, "moments": [881] },
       "339": { "name": "Rex Pham", "count": 1, "moments": [881] },
       "380": { "name": "Gokul Paranjothi", "count": 2, "moments": [881, 906] },
@@ -1927,7 +1947,9 @@
       797, 804, 808, 812, 817, 821, 830, 832, 839, 841, 845, 850, 854, 862, 866,
       878, 881, 901, 906, 911
     ],
-    "moments_count": 20
+    "moments_count": 20,
+    "overnights": [],
+    "overnights_count": 0
   },
   "384": {
     "name": "Micah Goldstein",
@@ -1969,7 +1991,7 @@
       "286": { "name": "Danielle Vinson", "count": 2, "moments": [876, 894] },
       "274": { "name": "Jason Baca", "count": 3, "moments": [876, 881, 906] },
       "315": {
-        "name": "Jose Briones-Siria",
+        "name": "Jos\u00e9 Briones-Siria",
         "count": 2,
         "moments": [876, 881]
       },
@@ -2017,14 +2039,14 @@
       "157": { "name": "Paola Caceres", "count": 2, "moments": [881, 906] },
       "397": { "name": "Youyang Zhao", "count": 2, "moments": [881, 906] },
       "340": { "name": "Aubrey Aronson", "count": 1, "moments": [881] },
-      "398": { "name": "Kristen (w/ Aubrey)", "count": 1, "moments": [881] },
+      "398": { "name": "Kristen Orzel", "count": 1, "moments": [881] },
       "72": { "name": "Jason Lemon", "count": 1, "moments": [881] },
       "339": { "name": "Rex Pham", "count": 1, "moments": [881] },
       "354": { "name": "Molly Kennedy", "count": 1, "moments": [881] },
       "403": { "name": "Justin Schaffer", "count": 2, "moments": [894, 906] },
       "404": { "name": "Ankit Patel", "count": 1, "moments": [894] },
       "405": { "name": "Desiree Starzyk", "count": 1, "moments": [894] },
-      "406": { "name": "Paul (w/ Lexi)", "count": 1, "moments": [894] },
+      "406": { "name": "Paul Yoo", "count": 1, "moments": [894] },
       "407": { "name": "Elaine French", "count": 1, "moments": [894] },
       "408": { "name": "Dan Adarme", "count": 1, "moments": [894] },
       "409": { "name": "Tim Coan", "count": 1, "moments": [894] },
@@ -2047,7 +2069,9 @@
     },
     "connections_count": 72,
     "moments": [876, 881, 894, 906],
-    "moments_count": 4
+    "moments_count": 4,
+    "overnights": [],
+    "overnights_count": 0
   },
   "274": {
     "name": "Jason Baca",
@@ -2154,7 +2178,7 @@
       },
       "382": { "name": "Dana Wilson", "count": 3, "moments": [863, 876, 881] },
       "149": { "name": "Maria Simone Weithers", "count": 1, "moments": [863] },
-      "383": { "name": "Niera (w/ Zack)", "count": 1, "moments": [863] },
+      "383": { "name": "Niera Nez", "count": 1, "moments": [863] },
       "279": { "name": "Ricky Alarcon", "count": 1, "moments": [876] },
       "384": {
         "name": "Micah Goldstein",
@@ -2172,7 +2196,7 @@
       "393": { "name": "Tim Ehrhardt", "count": 2, "moments": [876, 906] },
       "358": { "name": "Rachel Kennedy", "count": 2, "moments": [876, 881] },
       "315": {
-        "name": "Jose Briones-Siria",
+        "name": "Jos\u00e9 Briones-Siria",
         "count": 2,
         "moments": [876, 881]
       },
@@ -2186,7 +2210,7 @@
       "258": { "name": "Elizabeth Moffatt", "count": 1, "moments": [881] },
       "397": { "name": "Youyang Zhao", "count": 2, "moments": [881, 906] },
       "340": { "name": "Aubrey Aronson", "count": 1, "moments": [881] },
-      "398": { "name": "Kristen (w/ Aubrey)", "count": 1, "moments": [881] },
+      "398": { "name": "Kristen Orzel", "count": 1, "moments": [881] },
       "72": { "name": "Jason Lemon", "count": 1, "moments": [881] },
       "339": { "name": "Rex Pham", "count": 1, "moments": [881] },
       "354": { "name": "Molly Kennedy", "count": 1, "moments": [881] },
@@ -2202,7 +2226,9 @@
     },
     "connections_count": 71,
     "moments": [850, 863, 876, 881, 906],
-    "moments_count": 5
+    "moments_count": 5,
+    "overnights": [],
+    "overnights_count": 0
   },
   "369": {
     "name": "Joshua Carter",
@@ -2309,7 +2335,7 @@
       },
       "382": { "name": "Dana Wilson", "count": 3, "moments": [863, 876, 881] },
       "149": { "name": "Maria Simone Weithers", "count": 1, "moments": [863] },
-      "383": { "name": "Niera (w/ Zack)", "count": 1, "moments": [863] },
+      "383": { "name": "Niera Nez", "count": 1, "moments": [863] },
       "279": { "name": "Ricky Alarcon", "count": 1, "moments": [876] },
       "384": {
         "name": "Micah Goldstein",
@@ -2327,7 +2353,7 @@
       "393": { "name": "Tim Ehrhardt", "count": 2, "moments": [876, 906] },
       "358": { "name": "Rachel Kennedy", "count": 2, "moments": [876, 881] },
       "315": {
-        "name": "Jose Briones-Siria",
+        "name": "Jos\u00e9 Briones-Siria",
         "count": 2,
         "moments": [876, 881]
       },
@@ -2341,7 +2367,7 @@
       "258": { "name": "Elizabeth Moffatt", "count": 1, "moments": [881] },
       "397": { "name": "Youyang Zhao", "count": 2, "moments": [881, 906] },
       "340": { "name": "Aubrey Aronson", "count": 1, "moments": [881] },
-      "398": { "name": "Kristen (w/ Aubrey)", "count": 1, "moments": [881] },
+      "398": { "name": "Kristen Orzel", "count": 1, "moments": [881] },
       "72": { "name": "Jason Lemon", "count": 1, "moments": [881] },
       "339": { "name": "Rex Pham", "count": 1, "moments": [881] },
       "354": { "name": "Molly Kennedy", "count": 1, "moments": [881] },
@@ -2357,7 +2383,9 @@
     },
     "connections_count": 71,
     "moments": [850, 863, 876, 881, 906],
-    "moments_count": 5
+    "moments_count": 5,
+    "overnights": [],
+    "overnights_count": 0
   },
   "157": {
     "name": "Paola Caceres",
@@ -2371,7 +2399,7 @@
         ]
       },
       "315": {
-        "name": "Jose Briones-Siria",
+        "name": "Jos\u00e9 Briones-Siria",
         "count": 6,
         "moments": [804, 812, 832, 854, 881, 911]
       },
@@ -2460,7 +2488,7 @@
         "count": 4,
         "moments": [839, 850, 881, 906]
       },
-      "364": { "name": "Katherine MakeTime", "count": 1, "moments": [839] },
+      "364": { "name": "Katherine Crawford", "count": 1, "moments": [839] },
       "337": { "name": "David Wang", "count": 3, "moments": [839, 881, 906] },
       "365": { "name": "Daniel Richter", "count": 1, "moments": [839] },
       "52": { "name": "Patrick McAnneny", "count": 1, "moments": [845] },
@@ -2494,7 +2522,7 @@
       "397": { "name": "Youyang Zhao", "count": 2, "moments": [881, 906] },
       "382": { "name": "Dana Wilson", "count": 1, "moments": [881] },
       "340": { "name": "Aubrey Aronson", "count": 1, "moments": [881] },
-      "398": { "name": "Kristen (w/ Aubrey)", "count": 1, "moments": [881] },
+      "398": { "name": "Kristen Orzel", "count": 1, "moments": [881] },
       "72": { "name": "Jason Lemon", "count": 1, "moments": [881] },
       "339": { "name": "Rex Pham", "count": 1, "moments": [881] },
       "380": { "name": "Gokul Paranjothi", "count": 2, "moments": [881, 906] },
@@ -2517,7 +2545,9 @@
       797, 804, 808, 812, 817, 830, 832, 839, 845, 850, 851, 854, 862, 866, 878,
       881, 906, 911
     ],
-    "moments_count": 18
+    "moments_count": 18,
+    "overnights": [],
+    "overnights_count": 0
   },
   "263": {
     "name": "Carol Roszell",
@@ -2572,7 +2602,7 @@
         "moments": [798, 881, 894, 906]
       },
       "315": {
-        "name": "Jose Briones-Siria",
+        "name": "Jos\u00e9 Briones-Siria",
         "count": 3,
         "moments": [798, 812, 881]
       },
@@ -2634,7 +2664,7 @@
       "381": { "name": "Max Lotsein", "count": 1, "moments": [863] },
       "382": { "name": "Dana Wilson", "count": 2, "moments": [863, 881] },
       "149": { "name": "Maria Simone Weithers", "count": 1, "moments": [863] },
-      "383": { "name": "Niera (w/ Zack)", "count": 1, "moments": [863] },
+      "383": { "name": "Niera Nez", "count": 1, "moments": [863] },
       "274": { "name": "Jason Baca", "count": 3, "moments": [863, 881, 906] },
       "384": {
         "name": "Micah Goldstein",
@@ -2649,14 +2679,14 @@
       "258": { "name": "Elizabeth Moffatt", "count": 1, "moments": [881] },
       "385": { "name": "Oulin Yao", "count": 2, "moments": [881, 906] },
       "397": { "name": "Youyang Zhao", "count": 2, "moments": [881, 906] },
-      "398": { "name": "Kristen (w/ Aubrey)", "count": 1, "moments": [881] },
+      "398": { "name": "Kristen Orzel", "count": 1, "moments": [881] },
       "72": { "name": "Jason Lemon", "count": 1, "moments": [881] },
       "339": { "name": "Rex Pham", "count": 1, "moments": [881] },
       "403": { "name": "Justin Schaffer", "count": 2, "moments": [894, 906] },
       "404": { "name": "Ankit Patel", "count": 1, "moments": [894] },
       "388": { "name": "Lexi Mitsuhashi", "count": 1, "moments": [894] },
       "405": { "name": "Desiree Starzyk", "count": 1, "moments": [894] },
-      "406": { "name": "Paul (w/ Lexi)", "count": 1, "moments": [894] },
+      "406": { "name": "Paul Yoo", "count": 1, "moments": [894] },
       "407": { "name": "Elaine French", "count": 1, "moments": [894] },
       "408": { "name": "Dan Adarme", "count": 1, "moments": [894] },
       "409": { "name": "Tim Coan", "count": 1, "moments": [894] },
@@ -2675,7 +2705,9 @@
     },
     "connections_count": 70,
     "moments": [798, 812, 863, 881, 894, 906],
-    "moments_count": 6
+    "moments_count": 6,
+    "overnights": [],
+    "overnights_count": 0
   },
   "368": {
     "name": "Daniel Evan Quay",
@@ -2786,7 +2818,7 @@
       },
       "382": { "name": "Dana Wilson", "count": 2, "moments": [863, 876] },
       "149": { "name": "Maria Simone Weithers", "count": 1, "moments": [863] },
-      "383": { "name": "Niera (w/ Zack)", "count": 1, "moments": [863] },
+      "383": { "name": "Niera Nez", "count": 1, "moments": [863] },
       "279": { "name": "Ricky Alarcon", "count": 1, "moments": [876] },
       "384": { "name": "Micah Goldstein", "count": 2, "moments": [876, 906] },
       "385": { "name": "Oulin Yao", "count": 2, "moments": [876, 906] },
@@ -2799,7 +2831,11 @@
       "392": { "name": "Savannah Ehrhardt", "count": 2, "moments": [876, 906] },
       "393": { "name": "Tim Ehrhardt", "count": 2, "moments": [876, 906] },
       "358": { "name": "Rachel Kennedy", "count": 1, "moments": [876] },
-      "315": { "name": "Jose Briones-Siria", "count": 1, "moments": [876] },
+      "315": {
+        "name": "Jos\u00e9 Briones-Siria",
+        "count": 1,
+        "moments": [876]
+      },
       "394": { "name": "Calvin Collins", "count": 1, "moments": [876] },
       "365": { "name": "Daniel Richter", "count": 1, "moments": [876] },
       "395": { "name": "Sam Larkey", "count": 1, "moments": [876] },
@@ -2825,7 +2861,9 @@
     },
     "connections_count": 70,
     "moments": [850, 863, 876, 888, 891, 906, 915],
-    "moments_count": 7
+    "moments_count": 7,
+    "overnights": [],
+    "overnights_count": 0
   },
   "380": {
     "name": "Gokul Paranjothi",
@@ -2890,7 +2928,7 @@
       },
       "382": { "name": "Dana Wilson", "count": 3, "moments": [863, 876, 881] },
       "149": { "name": "Maria Simone Weithers", "count": 1, "moments": [863] },
-      "383": { "name": "Niera (w/ Zack)", "count": 1, "moments": [863] },
+      "383": { "name": "Niera Nez", "count": 1, "moments": [863] },
       "274": {
         "name": "Jason Baca",
         "count": 4,
@@ -2916,7 +2954,7 @@
       "375": { "name": "Halie Willis", "count": 1, "moments": [876] },
       "358": { "name": "Rachel Kennedy", "count": 2, "moments": [876, 881] },
       "315": {
-        "name": "Jose Briones-Siria",
+        "name": "Jos\u00e9 Briones-Siria",
         "count": 2,
         "moments": [876, 881]
       },
@@ -2936,7 +2974,7 @@
       "157": { "name": "Paola Caceres", "count": 2, "moments": [881, 906] },
       "397": { "name": "Youyang Zhao", "count": 2, "moments": [881, 906] },
       "340": { "name": "Aubrey Aronson", "count": 1, "moments": [881] },
-      "398": { "name": "Kristen (w/ Aubrey)", "count": 1, "moments": [881] },
+      "398": { "name": "Kristen Orzel", "count": 1, "moments": [881] },
       "72": { "name": "Jason Lemon", "count": 1, "moments": [881] },
       "339": { "name": "Rex Pham", "count": 1, "moments": [881] },
       "354": { "name": "Molly Kennedy", "count": 1, "moments": [881] },
@@ -2954,7 +2992,9 @@
     },
     "connections_count": 69,
     "moments": [863, 876, 881, 906],
-    "moments_count": 4
+    "moments_count": 4,
+    "overnights": [],
+    "overnights_count": 0
   },
   "351": {
     "name": "Trent Shaffer",
@@ -3012,7 +3052,7 @@
         "moments": [798, 825, 826, 830, 839, 843, 881]
       },
       "315": {
-        "name": "Jose Briones-Siria",
+        "name": "Jos\u00e9 Briones-Siria",
         "count": 8,
         "moments": [798, 812, 826, 832, 841, 843, 854, 881]
       },
@@ -3068,7 +3108,7 @@
         "count": 3,
         "moments": [839, 850, 881]
       },
-      "364": { "name": "Katherine MakeTime", "count": 1, "moments": [839] },
+      "364": { "name": "Katherine Crawford", "count": 1, "moments": [839] },
       "365": { "name": "Daniel Richter", "count": 1, "moments": [839] },
       "368": {
         "name": "Daniel Evan Quay",
@@ -3091,7 +3131,7 @@
       "385": { "name": "Oulin Yao", "count": 1, "moments": [881] },
       "397": { "name": "Youyang Zhao", "count": 1, "moments": [881] },
       "382": { "name": "Dana Wilson", "count": 1, "moments": [881] },
-      "398": { "name": "Kristen (w/ Aubrey)", "count": 1, "moments": [881] },
+      "398": { "name": "Kristen Orzel", "count": 1, "moments": [881] },
       "72": { "name": "Jason Lemon", "count": 1, "moments": [881] },
       "339": { "name": "Rex Pham", "count": 1, "moments": [881] },
       "380": { "name": "Gokul Paranjothi", "count": 1, "moments": [881] },
@@ -3108,7 +3148,9 @@
       798, 812, 825, 826, 830, 832, 839, 841, 843, 849, 850, 854, 862, 866, 873,
       881, 888, 891
     ],
-    "moments_count": 18
+    "moments_count": 18,
+    "overnights": [],
+    "overnights_count": 0
   },
   "357": {
     "name": "Rachelle Richter",
@@ -3167,7 +3209,7 @@
       },
       "355": { "name": "Jim Abraham", "count": 2, "moments": [812, 906] },
       "315": {
-        "name": "Jose Briones-Siria",
+        "name": "Jos\u00e9 Briones-Siria",
         "count": 2,
         "moments": [812, 876]
       },
@@ -3178,7 +3220,7 @@
       },
       "363": { "name": "Simon Goldstein", "count": 2, "moments": [839, 906] },
       "284": { "name": "Kyle Kane", "count": 1, "moments": [839] },
-      "364": { "name": "Katherine MakeTime", "count": 1, "moments": [839] },
+      "364": { "name": "Katherine Crawford", "count": 1, "moments": [839] },
       "114": { "name": "Norton King", "count": 3, "moments": [839, 876, 906] },
       "337": {
         "name": "David Wang",
@@ -3214,7 +3256,7 @@
       },
       "382": { "name": "Dana Wilson", "count": 2, "moments": [863, 876] },
       "149": { "name": "Maria Simone Weithers", "count": 1, "moments": [863] },
-      "383": { "name": "Niera (w/ Zack)", "count": 1, "moments": [863] },
+      "383": { "name": "Niera Nez", "count": 1, "moments": [863] },
       "274": { "name": "Jason Baca", "count": 3, "moments": [863, 876, 906] },
       "267": { "name": "Vanessa Alarc\u00f3n", "count": 1, "moments": [876] },
       "279": { "name": "Ricky Alarcon", "count": 1, "moments": [876] },
@@ -3248,7 +3290,9 @@
     },
     "connections_count": 68,
     "moments": [812, 839, 863, 876, 906],
-    "moments_count": 5
+    "moments_count": 5,
+    "overnights": [],
+    "overnights_count": 0
   },
   "358": {
     "name": "Rachel Kennedy",
@@ -3299,7 +3343,7 @@
       },
       "355": { "name": "Jim Abraham", "count": 2, "moments": [812, 826] },
       "315": {
-        "name": "Jose Briones-Siria",
+        "name": "Jos\u00e9 Briones-Siria",
         "count": 4,
         "moments": [812, 826, 876, 881]
       },
@@ -3319,7 +3363,7 @@
         "moments": [826, 839, 876, 881]
       },
       "363": { "name": "Simon Goldstein", "count": 2, "moments": [839, 881] },
-      "364": { "name": "Katherine MakeTime", "count": 1, "moments": [839] },
+      "364": { "name": "Katherine Crawford", "count": 1, "moments": [839] },
       "337": { "name": "David Wang", "count": 3, "moments": [839, 876, 881] },
       "365": { "name": "Daniel Richter", "count": 2, "moments": [839, 876] },
       "267": { "name": "Vanessa Alarc\u00f3n", "count": 1, "moments": [876] },
@@ -3355,14 +3399,16 @@
       "322": { "name": "Jill DeBiase", "count": 1, "moments": [881] },
       "397": { "name": "Youyang Zhao", "count": 1, "moments": [881] },
       "340": { "name": "Aubrey Aronson", "count": 1, "moments": [881] },
-      "398": { "name": "Kristen (w/ Aubrey)", "count": 1, "moments": [881] },
+      "398": { "name": "Kristen Orzel", "count": 1, "moments": [881] },
       "72": { "name": "Jason Lemon", "count": 1, "moments": [881] },
       "339": { "name": "Rex Pham", "count": 1, "moments": [881] },
       "354": { "name": "Molly Kennedy", "count": 1, "moments": [881] }
     },
     "connections_count": 66,
     "moments": [812, 826, 839, 876, 881],
-    "moments_count": 5
+    "moments_count": 5,
+    "overnights": [],
+    "overnights_count": 0
   },
   "385": {
     "name": "Oulin Yao",
@@ -3404,7 +3450,7 @@
       "286": { "name": "Danielle Vinson", "count": 1, "moments": [876] },
       "274": { "name": "Jason Baca", "count": 3, "moments": [876, 881, 906] },
       "315": {
-        "name": "Jose Briones-Siria",
+        "name": "Jos\u00e9 Briones-Siria",
         "count": 2,
         "moments": [876, 881]
       },
@@ -3440,7 +3486,7 @@
       "157": { "name": "Paola Caceres", "count": 2, "moments": [881, 906] },
       "397": { "name": "Youyang Zhao", "count": 2, "moments": [881, 906] },
       "340": { "name": "Aubrey Aronson", "count": 1, "moments": [881] },
-      "398": { "name": "Kristen (w/ Aubrey)", "count": 1, "moments": [881] },
+      "398": { "name": "Kristen Orzel", "count": 1, "moments": [881] },
       "72": { "name": "Jason Lemon", "count": 1, "moments": [881] },
       "339": { "name": "Rex Pham", "count": 1, "moments": [881] },
       "354": { "name": "Molly Kennedy", "count": 1, "moments": [881] },
@@ -3464,7 +3510,9 @@
     },
     "connections_count": 66,
     "moments": [876, 881, 906],
-    "moments_count": 3
+    "moments_count": 3,
+    "overnights": [],
+    "overnights_count": 0
   },
   "363": {
     "name": "Simon Goldstein",
@@ -3486,7 +3534,7 @@
       },
       "284": { "name": "Kyle Kane", "count": 3, "moments": [839, 850, 881] },
       "358": { "name": "Rachel Kennedy", "count": 2, "moments": [839, 881] },
-      "364": { "name": "Katherine MakeTime", "count": 1, "moments": [839] },
+      "364": { "name": "Katherine Crawford", "count": 1, "moments": [839] },
       "114": {
         "name": "Norton King",
         "count": 4,
@@ -3527,7 +3575,11 @@
       "374": { "name": "Oliver Dasey-Springer", "count": 1, "moments": [850] },
       "375": { "name": "Halie Willis", "count": 1, "moments": [850] },
       "316": { "name": "Melissa Briones-Siria", "count": 1, "moments": [881] },
-      "315": { "name": "Jose Briones-Siria", "count": 1, "moments": [881] },
+      "315": {
+        "name": "Jos\u00e9 Briones-Siria",
+        "count": 1,
+        "moments": [881]
+      },
       "384": {
         "name": "Micah Goldstein",
         "count": 3,
@@ -3545,7 +3597,7 @@
       "397": { "name": "Youyang Zhao", "count": 2, "moments": [881, 906] },
       "382": { "name": "Dana Wilson", "count": 1, "moments": [881] },
       "340": { "name": "Aubrey Aronson", "count": 1, "moments": [881] },
-      "398": { "name": "Kristen (w/ Aubrey)", "count": 1, "moments": [881] },
+      "398": { "name": "Kristen Orzel", "count": 1, "moments": [881] },
       "72": { "name": "Jason Lemon", "count": 1, "moments": [881] },
       "339": { "name": "Rex Pham", "count": 1, "moments": [881] },
       "380": { "name": "Gokul Paranjothi", "count": 2, "moments": [881, 906] },
@@ -3555,7 +3607,7 @@
       "404": { "name": "Ankit Patel", "count": 1, "moments": [894] },
       "388": { "name": "Lexi Mitsuhashi", "count": 1, "moments": [894] },
       "405": { "name": "Desiree Starzyk", "count": 1, "moments": [894] },
-      "406": { "name": "Paul (w/ Lexi)", "count": 1, "moments": [894] },
+      "406": { "name": "Paul Yoo", "count": 1, "moments": [894] },
       "407": { "name": "Elaine French", "count": 1, "moments": [894] },
       "408": { "name": "Dan Adarme", "count": 1, "moments": [894] },
       "286": { "name": "Danielle Vinson", "count": 1, "moments": [894] },
@@ -3581,7 +3633,9 @@
     },
     "connections_count": 65,
     "moments": [839, 850, 881, 894, 906],
-    "moments_count": 5
+    "moments_count": 5,
+    "overnights": [],
+    "overnights_count": 0
   },
   "257": {
     "name": "Daniel Col\u00f3n-Hidalgo",
@@ -3632,7 +3686,7 @@
       "350": { "name": "Jeremy Thomas", "count": 2, "moments": [812, 906] },
       "355": { "name": "Jim Abraham", "count": 3, "moments": [812, 826, 906] },
       "315": {
-        "name": "Jose Briones-Siria",
+        "name": "Jos\u00e9 Briones-Siria",
         "count": 2,
         "moments": [812, 826]
       },
@@ -3663,7 +3717,7 @@
       "323": { "name": "Greg Edelston", "count": 2, "moments": [863, 906] },
       "382": { "name": "Dana Wilson", "count": 1, "moments": [863] },
       "149": { "name": "Maria Simone Weithers", "count": 1, "moments": [863] },
-      "383": { "name": "Niera (w/ Zack)", "count": 1, "moments": [863] },
+      "383": { "name": "Niera Nez", "count": 1, "moments": [863] },
       "274": { "name": "Jason Baca", "count": 2, "moments": [863, 906] },
       "384": { "name": "Micah Goldstein", "count": 2, "moments": [894, 906] },
       "403": { "name": "Justin Schaffer", "count": 2, "moments": [894, 906] },
@@ -3671,7 +3725,7 @@
       "363": { "name": "Simon Goldstein", "count": 2, "moments": [894, 906] },
       "388": { "name": "Lexi Mitsuhashi", "count": 1, "moments": [894] },
       "405": { "name": "Desiree Starzyk", "count": 1, "moments": [894] },
-      "406": { "name": "Paul (w/ Lexi)", "count": 1, "moments": [894] },
+      "406": { "name": "Paul Yoo", "count": 1, "moments": [894] },
       "407": { "name": "Elaine French", "count": 1, "moments": [894] },
       "408": { "name": "Dan Adarme", "count": 1, "moments": [894] },
       "409": { "name": "Tim Coan", "count": 1, "moments": [894] },
@@ -3693,7 +3747,9 @@
     },
     "connections_count": 64,
     "moments": [812, 825, 826, 863, 894, 906],
-    "moments_count": 6
+    "moments_count": 6,
+    "overnights": [],
+    "overnights_count": 0
   },
   "284": {
     "name": "Kyle Kane",
@@ -3747,7 +3803,7 @@
         "moments": [798, 825, 826, 830, 839, 843, 881]
       },
       "315": {
-        "name": "Jose Briones-Siria",
+        "name": "Jos\u00e9 Briones-Siria",
         "count": 7,
         "moments": [798, 826, 832, 841, 843, 854, 881]
       },
@@ -3799,7 +3855,7 @@
         "count": 3,
         "moments": [839, 850, 881]
       },
-      "364": { "name": "Katherine MakeTime", "count": 1, "moments": [839] },
+      "364": { "name": "Katherine Crawford", "count": 1, "moments": [839] },
       "365": { "name": "Daniel Richter", "count": 1, "moments": [839] },
       "357": { "name": "Rachelle Richter", "count": 1, "moments": [839] },
       "368": {
@@ -3822,7 +3878,7 @@
       "385": { "name": "Oulin Yao", "count": 1, "moments": [881] },
       "397": { "name": "Youyang Zhao", "count": 1, "moments": [881] },
       "382": { "name": "Dana Wilson", "count": 1, "moments": [881] },
-      "398": { "name": "Kristen (w/ Aubrey)", "count": 1, "moments": [881] },
+      "398": { "name": "Kristen Orzel", "count": 1, "moments": [881] },
       "72": { "name": "Jason Lemon", "count": 1, "moments": [881] },
       "339": { "name": "Rex Pham", "count": 1, "moments": [881] },
       "380": { "name": "Gokul Paranjothi", "count": 1, "moments": [881] },
@@ -3839,7 +3895,9 @@
       798, 806, 825, 826, 830, 832, 839, 841, 843, 849, 850, 854, 862, 866, 881,
       888, 891
     ],
-    "moments_count": 17
+    "moments_count": 17,
+    "overnights": [],
+    "overnights_count": 0
   },
   "378": {
     "name": "Allyson Amanda",
@@ -3904,7 +3962,7 @@
       },
       "382": { "name": "Dana Wilson", "count": 2, "moments": [863, 876] },
       "149": { "name": "Maria Simone Weithers", "count": 1, "moments": [863] },
-      "383": { "name": "Niera (w/ Zack)", "count": 1, "moments": [863] },
+      "383": { "name": "Niera Nez", "count": 1, "moments": [863] },
       "274": { "name": "Jason Baca", "count": 2, "moments": [863, 876] },
       "267": { "name": "Vanessa Alarc\u00f3n", "count": 1, "moments": [876] },
       "279": { "name": "Ricky Alarcon", "count": 1, "moments": [876] },
@@ -3925,7 +3983,11 @@
       "393": { "name": "Tim Ehrhardt", "count": 1, "moments": [876] },
       "375": { "name": "Halie Willis", "count": 2, "moments": [876, 891] },
       "358": { "name": "Rachel Kennedy", "count": 1, "moments": [876] },
-      "315": { "name": "Jose Briones-Siria", "count": 1, "moments": [876] },
+      "315": {
+        "name": "Jos\u00e9 Briones-Siria",
+        "count": 1,
+        "moments": [876]
+      },
       "394": { "name": "Calvin Collins", "count": 1, "moments": [876] },
       "365": { "name": "Daniel Richter", "count": 1, "moments": [876] },
       "395": { "name": "Sam Larkey", "count": 1, "moments": [876] },
@@ -3946,7 +4008,7 @@
       "404": { "name": "Ankit Patel", "count": 1, "moments": [894] },
       "363": { "name": "Simon Goldstein", "count": 1, "moments": [894] },
       "405": { "name": "Desiree Starzyk", "count": 1, "moments": [894] },
-      "406": { "name": "Paul (w/ Lexi)", "count": 1, "moments": [894] },
+      "406": { "name": "Paul Yoo", "count": 1, "moments": [894] },
       "407": { "name": "Elaine French", "count": 1, "moments": [894] },
       "408": { "name": "Dan Adarme", "count": 1, "moments": [894] },
       "409": { "name": "Tim Coan", "count": 1, "moments": [894] },
@@ -3958,13 +4020,15 @@
     },
     "connections_count": 63,
     "moments": [863, 876, 888, 891, 893, 894, 900, 915],
-    "moments_count": 8
+    "moments_count": 8,
+    "overnights": [],
+    "overnights_count": 0
   },
   "322": {
     "name": "Jill DeBiase",
     "connections": {
       "315": {
-        "name": "Jose Briones-Siria",
+        "name": "Jos\u00e9 Briones-Siria",
         "count": 3,
         "moments": [788, 798, 881]
       },
@@ -4050,7 +4114,7 @@
       "357": { "name": "Rachelle Richter", "count": 2, "moments": [863, 906] },
       "382": { "name": "Dana Wilson", "count": 2, "moments": [863, 881] },
       "149": { "name": "Maria Simone Weithers", "count": 1, "moments": [863] },
-      "383": { "name": "Niera (w/ Zack)", "count": 1, "moments": [863] },
+      "383": { "name": "Niera Nez", "count": 1, "moments": [863] },
       "274": { "name": "Jason Baca", "count": 3, "moments": [863, 881, 906] },
       "384": { "name": "Micah Goldstein", "count": 2, "moments": [881, 906] },
       "363": { "name": "Simon Goldstein", "count": 2, "moments": [881, 906] },
@@ -4060,7 +4124,7 @@
       "385": { "name": "Oulin Yao", "count": 2, "moments": [881, 906] },
       "397": { "name": "Youyang Zhao", "count": 2, "moments": [881, 906] },
       "358": { "name": "Rachel Kennedy", "count": 1, "moments": [881] },
-      "398": { "name": "Kristen (w/ Aubrey)", "count": 1, "moments": [881] },
+      "398": { "name": "Kristen Orzel", "count": 1, "moments": [881] },
       "72": { "name": "Jason Lemon", "count": 1, "moments": [881] },
       "339": { "name": "Rex Pham", "count": 1, "moments": [881] },
       "414": { "name": "Jackie Rivera", "count": 1, "moments": [906] },
@@ -4080,7 +4144,9 @@
     },
     "connections_count": 62,
     "moments": [788, 798, 863, 881, 906],
-    "moments_count": 5
+    "moments_count": 5,
+    "overnights": [],
+    "overnights_count": 0
   },
   "370": {
     "name": "Alicia Savelly",
@@ -4145,7 +4211,11 @@
       "380": { "name": "Gokul Paranjothi", "count": 2, "moments": [876, 906] },
       "358": { "name": "Rachel Kennedy", "count": 1, "moments": [876] },
       "286": { "name": "Danielle Vinson", "count": 1, "moments": [876] },
-      "315": { "name": "Jose Briones-Siria", "count": 1, "moments": [876] },
+      "315": {
+        "name": "Jos\u00e9 Briones-Siria",
+        "count": 1,
+        "moments": [876]
+      },
       "394": { "name": "Calvin Collins", "count": 1, "moments": [876] },
       "357": { "name": "Rachelle Richter", "count": 2, "moments": [876, 906] },
       "365": { "name": "Daniel Richter", "count": 1, "moments": [876] },
@@ -4178,7 +4248,9 @@
     },
     "connections_count": 62,
     "moments": [850, 876, 906],
-    "moments_count": 3
+    "moments_count": 3,
+    "overnights": [],
+    "overnights_count": 0
   },
   "371": {
     "name": "Sresht Rengesh",
@@ -4243,7 +4315,11 @@
       "380": { "name": "Gokul Paranjothi", "count": 2, "moments": [876, 906] },
       "358": { "name": "Rachel Kennedy", "count": 1, "moments": [876] },
       "286": { "name": "Danielle Vinson", "count": 1, "moments": [876] },
-      "315": { "name": "Jose Briones-Siria", "count": 1, "moments": [876] },
+      "315": {
+        "name": "Jos\u00e9 Briones-Siria",
+        "count": 1,
+        "moments": [876]
+      },
       "394": { "name": "Calvin Collins", "count": 1, "moments": [876] },
       "357": { "name": "Rachelle Richter", "count": 2, "moments": [876, 906] },
       "365": { "name": "Daniel Richter", "count": 1, "moments": [876] },
@@ -4276,7 +4352,9 @@
     },
     "connections_count": 62,
     "moments": [850, 876, 906],
-    "moments_count": 3
+    "moments_count": 3,
+    "overnights": [],
+    "overnights_count": 0
   },
   "382": {
     "name": "Dana Wilson",
@@ -4325,7 +4403,7 @@
         "moments": [863, 876, 881]
       },
       "149": { "name": "Maria Simone Weithers", "count": 1, "moments": [863] },
-      "383": { "name": "Niera (w/ Zack)", "count": 1, "moments": [863] },
+      "383": { "name": "Niera Nez", "count": 1, "moments": [863] },
       "274": { "name": "Jason Baca", "count": 3, "moments": [863, 876, 881] },
       "267": { "name": "Vanessa Alarc\u00f3n", "count": 1, "moments": [876] },
       "279": { "name": "Ricky Alarcon", "count": 1, "moments": [876] },
@@ -4343,7 +4421,7 @@
       "375": { "name": "Halie Willis", "count": 1, "moments": [876] },
       "358": { "name": "Rachel Kennedy", "count": 2, "moments": [876, 881] },
       "315": {
-        "name": "Jose Briones-Siria",
+        "name": "Jos\u00e9 Briones-Siria",
         "count": 2,
         "moments": [876, 881]
       },
@@ -4363,14 +4441,16 @@
       "157": { "name": "Paola Caceres", "count": 1, "moments": [881] },
       "397": { "name": "Youyang Zhao", "count": 1, "moments": [881] },
       "340": { "name": "Aubrey Aronson", "count": 1, "moments": [881] },
-      "398": { "name": "Kristen (w/ Aubrey)", "count": 1, "moments": [881] },
+      "398": { "name": "Kristen Orzel", "count": 1, "moments": [881] },
       "72": { "name": "Jason Lemon", "count": 1, "moments": [881] },
       "339": { "name": "Rex Pham", "count": 1, "moments": [881] },
       "354": { "name": "Molly Kennedy", "count": 1, "moments": [881] }
     },
     "connections_count": 58,
     "moments": [863, 876, 881, 882],
-    "moments_count": 4
+    "moments_count": 4,
+    "overnights": [],
+    "overnights_count": 0
   },
   "392": {
     "name": "Savannah Ehrhardt",
@@ -4399,7 +4479,11 @@
       "358": { "name": "Rachel Kennedy", "count": 1, "moments": [876] },
       "286": { "name": "Danielle Vinson", "count": 1, "moments": [876] },
       "274": { "name": "Jason Baca", "count": 2, "moments": [876, 906] },
-      "315": { "name": "Jose Briones-Siria", "count": 1, "moments": [876] },
+      "315": {
+        "name": "Jos\u00e9 Briones-Siria",
+        "count": 1,
+        "moments": [876]
+      },
       "394": { "name": "Calvin Collins", "count": 1, "moments": [876] },
       "357": { "name": "Rachelle Richter", "count": 2, "moments": [876, 906] },
       "365": { "name": "Daniel Richter", "count": 1, "moments": [876] },
@@ -4439,7 +4523,9 @@
     },
     "connections_count": 57,
     "moments": [876, 906],
-    "moments_count": 2
+    "moments_count": 2,
+    "overnights": [],
+    "overnights_count": 0
   },
   "393": {
     "name": "Tim Ehrhardt",
@@ -4468,7 +4554,11 @@
       "358": { "name": "Rachel Kennedy", "count": 1, "moments": [876] },
       "286": { "name": "Danielle Vinson", "count": 1, "moments": [876] },
       "274": { "name": "Jason Baca", "count": 2, "moments": [876, 906] },
-      "315": { "name": "Jose Briones-Siria", "count": 1, "moments": [876] },
+      "315": {
+        "name": "Jos\u00e9 Briones-Siria",
+        "count": 1,
+        "moments": [876]
+      },
       "394": { "name": "Calvin Collins", "count": 1, "moments": [876] },
       "357": { "name": "Rachelle Richter", "count": 2, "moments": [876, 906] },
       "365": { "name": "Daniel Richter", "count": 1, "moments": [876] },
@@ -4508,7 +4598,9 @@
     },
     "connections_count": 57,
     "moments": [876, 906],
-    "moments_count": 2
+    "moments_count": 2,
+    "overnights": [],
+    "overnights_count": 0
   },
   "355": {
     "name": "Jim Abraham",
@@ -4547,7 +4639,7 @@
       "322": { "name": "Jill DeBiase", "count": 2, "moments": [798, 906] },
       "114": { "name": "Norton King", "count": 3, "moments": [798, 826, 906] },
       "315": {
-        "name": "Jose Briones-Siria",
+        "name": "Jos\u00e9 Briones-Siria",
         "count": 3,
         "moments": [798, 812, 826]
       },
@@ -4596,7 +4688,9 @@
     },
     "connections_count": 56,
     "moments": [798, 812, 826, 906],
-    "moments_count": 4
+    "moments_count": 4,
+    "overnights": [],
+    "overnights_count": 0
   },
   "381": {
     "name": "Max Lotsein",
@@ -4649,7 +4743,7 @@
       "323": { "name": "Greg Edelston", "count": 2, "moments": [863, 876] },
       "382": { "name": "Dana Wilson", "count": 2, "moments": [863, 876] },
       "149": { "name": "Maria Simone Weithers", "count": 1, "moments": [863] },
-      "383": { "name": "Niera (w/ Zack)", "count": 1, "moments": [863] },
+      "383": { "name": "Niera Nez", "count": 1, "moments": [863] },
       "274": { "name": "Jason Baca", "count": 2, "moments": [863, 876] },
       "267": { "name": "Vanessa Alarc\u00f3n", "count": 1, "moments": [876] },
       "279": { "name": "Ricky Alarcon", "count": 1, "moments": [876] },
@@ -4667,7 +4761,7 @@
       "375": { "name": "Halie Willis", "count": 3, "moments": [876, 891, 903] },
       "358": { "name": "Rachel Kennedy", "count": 1, "moments": [876] },
       "315": {
-        "name": "Jose Briones-Siria",
+        "name": "Jos\u00e9 Briones-Siria",
         "count": 4,
         "moments": [876, 884, 896, 911]
       },
@@ -4698,7 +4792,9 @@
     },
     "connections_count": 54,
     "moments": [863, 876, 878, 884, 888, 891, 896, 903, 911],
-    "moments_count": 9
+    "moments_count": 9,
+    "overnights": [],
+    "overnights_count": 0
   },
   "388": {
     "name": "Lexi Mitsuhashi",
@@ -4735,7 +4831,11 @@
         "moments": [876, 891, 894]
       },
       "274": { "name": "Jason Baca", "count": 1, "moments": [876] },
-      "315": { "name": "Jose Briones-Siria", "count": 1, "moments": [876] },
+      "315": {
+        "name": "Jos\u00e9 Briones-Siria",
+        "count": 1,
+        "moments": [876]
+      },
       "394": { "name": "Calvin Collins", "count": 1, "moments": [876] },
       "357": { "name": "Rachelle Richter", "count": 1, "moments": [876] },
       "365": { "name": "Daniel Richter", "count": 1, "moments": [876] },
@@ -4767,7 +4867,7 @@
       "404": { "name": "Ankit Patel", "count": 1, "moments": [894] },
       "363": { "name": "Simon Goldstein", "count": 1, "moments": [894] },
       "405": { "name": "Desiree Starzyk", "count": 1, "moments": [894] },
-      "406": { "name": "Paul (w/ Lexi)", "count": 1, "moments": [894] },
+      "406": { "name": "Paul Yoo", "count": 1, "moments": [894] },
       "263": { "name": "Carol Roszell", "count": 1, "moments": [894] },
       "407": { "name": "Elaine French", "count": 1, "moments": [894] },
       "408": { "name": "Dan Adarme", "count": 1, "moments": [894] },
@@ -4780,7 +4880,9 @@
     },
     "connections_count": 54,
     "moments": [876, 891, 894],
-    "moments_count": 3
+    "moments_count": 3,
+    "overnights": [],
+    "overnights_count": 0
   },
   "403": {
     "name": "Justin Schaffer",
@@ -4791,7 +4893,7 @@
       "388": { "name": "Lexi Mitsuhashi", "count": 1, "moments": [894] },
       "320": { "name": "Mary Ann Tate", "count": 1, "moments": [894] },
       "405": { "name": "Desiree Starzyk", "count": 1, "moments": [894] },
-      "406": { "name": "Paul (w/ Lexi)", "count": 1, "moments": [894] },
+      "406": { "name": "Paul Yoo", "count": 1, "moments": [894] },
       "263": { "name": "Carol Roszell", "count": 2, "moments": [894, 906] },
       "407": { "name": "Elaine French", "count": 1, "moments": [894] },
       "408": { "name": "Dan Adarme", "count": 1, "moments": [894] },
@@ -4814,7 +4916,11 @@
       "336": { "name": "Mary Ann Bennet", "count": 1, "moments": [900] },
       "314": { "name": "Drew Jackson", "count": 2, "moments": [904, 915] },
       "316": { "name": "Melissa Briones-Siria", "count": 1, "moments": [904] },
-      "315": { "name": "Jose Briones-Siria", "count": 1, "moments": [904] },
+      "315": {
+        "name": "Jos\u00e9 Briones-Siria",
+        "count": 1,
+        "moments": [904]
+      },
       "380": { "name": "Gokul Paranjothi", "count": 1, "moments": [906] },
       "347": { "name": "Zachary Kaluza", "count": 1, "moments": [906] },
       "385": { "name": "Oulin Yao", "count": 1, "moments": [906] },
@@ -4849,7 +4955,9 @@
     },
     "connections_count": 53,
     "moments": [894, 900, 904, 906, 915],
-    "moments_count": 5
+    "moments_count": 5,
+    "overnights": [],
+    "overnights_count": 0
   },
   "375": {
     "name": "Halie Willis",
@@ -4910,7 +5018,11 @@
         "count": 3,
         "moments": [876, 891, 903]
       },
-      "315": { "name": "Jose Briones-Siria", "count": 1, "moments": [876] },
+      "315": {
+        "name": "Jos\u00e9 Briones-Siria",
+        "count": 1,
+        "moments": [876]
+      },
       "394": { "name": "Calvin Collins", "count": 1, "moments": [876] },
       "357": { "name": "Rachelle Richter", "count": 1, "moments": [876] },
       "365": { "name": "Daniel Richter", "count": 1, "moments": [876] },
@@ -4929,7 +5041,9 @@
     },
     "connections_count": 52,
     "moments": [850, 876, 891, 902, 903, 907, 912, 914],
-    "moments_count": 8
+    "moments_count": 8,
+    "overnights": [],
+    "overnights_count": 0
   },
   "379": {
     "name": "Eric Mueller",
@@ -4970,7 +5084,7 @@
       "323": { "name": "Greg Edelston", "count": 2, "moments": [863, 906] },
       "382": { "name": "Dana Wilson", "count": 1, "moments": [863] },
       "149": { "name": "Maria Simone Weithers", "count": 1, "moments": [863] },
-      "383": { "name": "Niera (w/ Zack)", "count": 1, "moments": [863] },
+      "383": { "name": "Niera Nez", "count": 1, "moments": [863] },
       "274": { "name": "Jason Baca", "count": 2, "moments": [863, 906] },
       "351": { "name": "Trent Shaffer", "count": 2, "moments": [888, 891] },
       "284": { "name": "Kyle Kane", "count": 2, "moments": [888, 891] },
@@ -5005,7 +5119,9 @@
     },
     "connections_count": 52,
     "moments": [863, 888, 891, 893, 906],
-    "moments_count": 5
+    "moments_count": 5,
+    "overnights": [],
+    "overnights_count": 0
   },
   "377": {
     "name": "Wesley Tabor",
@@ -5058,7 +5174,7 @@
       "323": { "name": "Greg Edelston", "count": 2, "moments": [863, 876] },
       "382": { "name": "Dana Wilson", "count": 2, "moments": [863, 876] },
       "149": { "name": "Maria Simone Weithers", "count": 1, "moments": [863] },
-      "383": { "name": "Niera (w/ Zack)", "count": 1, "moments": [863] },
+      "383": { "name": "Niera Nez", "count": 1, "moments": [863] },
       "274": { "name": "Jason Baca", "count": 2, "moments": [863, 876] },
       "267": { "name": "Vanessa Alarc\u00f3n", "count": 1, "moments": [876] },
       "279": { "name": "Ricky Alarcon", "count": 1, "moments": [876] },
@@ -5075,7 +5191,11 @@
       "393": { "name": "Tim Ehrhardt", "count": 1, "moments": [876] },
       "375": { "name": "Halie Willis", "count": 2, "moments": [876, 891] },
       "358": { "name": "Rachel Kennedy", "count": 1, "moments": [876] },
-      "315": { "name": "Jose Briones-Siria", "count": 1, "moments": [876] },
+      "315": {
+        "name": "Jos\u00e9 Briones-Siria",
+        "count": 1,
+        "moments": [876]
+      },
       "394": { "name": "Calvin Collins", "count": 1, "moments": [876] },
       "365": { "name": "Daniel Richter", "count": 1, "moments": [876] },
       "395": { "name": "Sam Larkey", "count": 1, "moments": [876] },
@@ -5091,7 +5211,9 @@
     },
     "connections_count": 50,
     "moments": [863, 876, 891],
-    "moments_count": 3
+    "moments_count": 3,
+    "overnights": [],
+    "overnights_count": 0
   },
   "267": {
     "name": "Vanessa Alarc\u00f3n",
@@ -5136,7 +5258,11 @@
       "380": { "name": "Gokul Paranjothi", "count": 1, "moments": [876] },
       "358": { "name": "Rachel Kennedy", "count": 1, "moments": [876] },
       "286": { "name": "Danielle Vinson", "count": 1, "moments": [876] },
-      "315": { "name": "Jose Briones-Siria", "count": 1, "moments": [876] },
+      "315": {
+        "name": "Jos\u00e9 Briones-Siria",
+        "count": 1,
+        "moments": [876]
+      },
       "394": { "name": "Calvin Collins", "count": 1, "moments": [876] },
       "357": { "name": "Rachelle Richter", "count": 1, "moments": [876] },
       "365": { "name": "Daniel Richter", "count": 1, "moments": [876] },
@@ -5151,7 +5277,9 @@
     },
     "connections_count": 48,
     "moments": [850, 876],
-    "moments_count": 2
+    "moments_count": 2,
+    "overnights": [],
+    "overnights_count": 0
   },
   "397": {
     "name": "Youyang Zhao",
@@ -5160,7 +5288,11 @@
       "351": { "name": "Trent Shaffer", "count": 1, "moments": [881] },
       "369": { "name": "Joshua Carter", "count": 2, "moments": [881, 906] },
       "316": { "name": "Melissa Briones-Siria", "count": 1, "moments": [881] },
-      "315": { "name": "Jose Briones-Siria", "count": 1, "moments": [881] },
+      "315": {
+        "name": "Jos\u00e9 Briones-Siria",
+        "count": 1,
+        "moments": [881]
+      },
       "384": { "name": "Micah Goldstein", "count": 2, "moments": [881, 906] },
       "363": { "name": "Simon Goldstein", "count": 2, "moments": [881, 906] },
       "350": { "name": "Jeremy Thomas", "count": 2, "moments": [881, 906] },
@@ -5175,7 +5307,7 @@
       "382": { "name": "Dana Wilson", "count": 1, "moments": [881] },
       "358": { "name": "Rachel Kennedy", "count": 1, "moments": [881] },
       "340": { "name": "Aubrey Aronson", "count": 1, "moments": [881] },
-      "398": { "name": "Kristen (w/ Aubrey)", "count": 1, "moments": [881] },
+      "398": { "name": "Kristen Orzel", "count": 1, "moments": [881] },
       "320": { "name": "Mary Ann Tate", "count": 1, "moments": [881] },
       "274": { "name": "Jason Baca", "count": 2, "moments": [881, 906] },
       "72": { "name": "Jason Lemon", "count": 1, "moments": [881] },
@@ -5211,13 +5343,15 @@
     },
     "connections_count": 48,
     "moments": [881, 906],
-    "moments_count": 2
+    "moments_count": 2,
+    "overnights": [],
+    "overnights_count": 0
   },
   "356": {
     "name": "Chandler Jordana",
     "connections": {
       "315": {
-        "name": "Jose Briones-Siria",
+        "name": "Jos\u00e9 Briones-Siria",
         "count": 2,
         "moments": [811, 812]
       },
@@ -5273,13 +5407,15 @@
     },
     "connections_count": 46,
     "moments": [809, 811, 812, 816, 820, 829, 834, 836, 840, 855, 906],
-    "moments_count": 11
+    "moments_count": 11,
+    "overnights": [],
+    "overnights_count": 0
   },
   "316": {
     "name": "Melissa Briones-Siria",
     "connections": {
       "315": {
-        "name": "Jose Briones-Siria",
+        "name": "Jos\u00e9 Briones-Siria",
         "count": 13,
         "moments": [
           788, 798, 811, 843, 853, 854, 872, 875, 881, 884, 896, 904, 911
@@ -5355,7 +5491,7 @@
       "397": { "name": "Youyang Zhao", "count": 1, "moments": [881] },
       "382": { "name": "Dana Wilson", "count": 1, "moments": [881] },
       "358": { "name": "Rachel Kennedy", "count": 1, "moments": [881] },
-      "398": { "name": "Kristen (w/ Aubrey)", "count": 1, "moments": [881] },
+      "398": { "name": "Kristen Orzel", "count": 1, "moments": [881] },
       "274": { "name": "Jason Baca", "count": 1, "moments": [881] },
       "72": { "name": "Jason Lemon", "count": 1, "moments": [881] },
       "339": { "name": "Rex Pham", "count": 1, "moments": [881] },
@@ -5369,7 +5505,9 @@
     "moments": [
       788, 798, 811, 843, 853, 854, 872, 875, 881, 884, 896, 904, 911
     ],
-    "moments_count": 13
+    "moments_count": 13,
+    "overnights": [],
+    "overnights_count": 0
   },
   "365": {
     "name": "Daniel Richter",
@@ -5384,7 +5522,7 @@
       "351": { "name": "Trent Shaffer", "count": 1, "moments": [839] },
       "284": { "name": "Kyle Kane", "count": 1, "moments": [839] },
       "358": { "name": "Rachel Kennedy", "count": 2, "moments": [839, 876] },
-      "364": { "name": "Katherine MakeTime", "count": 1, "moments": [839] },
+      "364": { "name": "Katherine Crawford", "count": 1, "moments": [839] },
       "114": { "name": "Norton King", "count": 2, "moments": [839, 876] },
       "337": { "name": "David Wang", "count": 2, "moments": [839, 876] },
       "357": { "name": "Rachelle Richter", "count": 2, "moments": [839, 876] },
@@ -5413,7 +5551,11 @@
       "380": { "name": "Gokul Paranjothi", "count": 1, "moments": [876] },
       "286": { "name": "Danielle Vinson", "count": 1, "moments": [876] },
       "274": { "name": "Jason Baca", "count": 1, "moments": [876] },
-      "315": { "name": "Jose Briones-Siria", "count": 1, "moments": [876] },
+      "315": {
+        "name": "Jos\u00e9 Briones-Siria",
+        "count": 1,
+        "moments": [876]
+      },
       "394": { "name": "Calvin Collins", "count": 1, "moments": [876] },
       "395": { "name": "Sam Larkey", "count": 1, "moments": [876] },
       "378": { "name": "Allyson Amanda", "count": 1, "moments": [876] },
@@ -5425,7 +5567,9 @@
     },
     "connections_count": 44,
     "moments": [839, 876],
-    "moments_count": 2
+    "moments_count": 2,
+    "overnights": [],
+    "overnights_count": 0
   },
   "276": {
     "name": "Nicole Beich",
@@ -5461,7 +5605,11 @@
       },
       "355": { "name": "Jim Abraham", "count": 1, "moments": [826] },
       "114": { "name": "Norton King", "count": 1, "moments": [826] },
-      "315": { "name": "Jose Briones-Siria", "count": 1, "moments": [826] },
+      "315": {
+        "name": "Jos\u00e9 Briones-Siria",
+        "count": 1,
+        "moments": [826]
+      },
       "368": { "name": "Daniel Evan Quay", "count": 2, "moments": [850, 863] },
       "363": { "name": "Simon Goldstein", "count": 1, "moments": [850] },
       "274": { "name": "Jason Baca", "count": 2, "moments": [850, 863] },
@@ -5488,11 +5636,13 @@
       "323": { "name": "Greg Edelston", "count": 1, "moments": [863] },
       "382": { "name": "Dana Wilson", "count": 1, "moments": [863] },
       "149": { "name": "Maria Simone Weithers", "count": 1, "moments": [863] },
-      "383": { "name": "Niera (w/ Zack)", "count": 1, "moments": [863] }
+      "383": { "name": "Niera Nez", "count": 1, "moments": [863] }
     },
     "connections_count": 43,
     "moments": [808, 826, 850, 863],
-    "moments_count": 4
+    "moments_count": 4,
+    "overnights": [],
+    "overnights_count": 0
   },
   "372": {
     "name": "Stuart Inamura",
@@ -5547,7 +5697,9 @@
     },
     "connections_count": 43,
     "moments": [850, 906],
-    "moments_count": 2
+    "moments_count": 2,
+    "overnights": [],
+    "overnights_count": 0
   },
   "373": {
     "name": "Megan Moore",
@@ -5602,7 +5754,9 @@
     },
     "connections_count": 43,
     "moments": [850, 906],
-    "moments_count": 2
+    "moments_count": 2,
+    "overnights": [],
+    "overnights_count": 0
   },
   "336": {
     "name": "Mary Ann Bennet",
@@ -5650,7 +5804,7 @@
       "355": { "name": "Jim Abraham", "count": 1, "moments": [798] },
       "322": { "name": "Jill DeBiase", "count": 1, "moments": [798] },
       "315": {
-        "name": "Jose Briones-Siria",
+        "name": "Jos\u00e9 Briones-Siria",
         "count": 3,
         "moments": [798, 843, 854]
       },
@@ -5695,7 +5849,9 @@
     "moments": [
       784, 790, 795, 798, 808, 821, 830, 831, 843, 845, 849, 854, 861, 891, 900
     ],
-    "moments_count": 15
+    "moments_count": 15,
+    "overnights": [],
+    "overnights_count": 0
   },
   "279": {
     "name": "Ricky Alarcon",
@@ -5724,7 +5880,11 @@
       "358": { "name": "Rachel Kennedy", "count": 1, "moments": [876] },
       "286": { "name": "Danielle Vinson", "count": 1, "moments": [876] },
       "274": { "name": "Jason Baca", "count": 1, "moments": [876] },
-      "315": { "name": "Jose Briones-Siria", "count": 1, "moments": [876] },
+      "315": {
+        "name": "Jos\u00e9 Briones-Siria",
+        "count": 1,
+        "moments": [876]
+      },
       "394": { "name": "Calvin Collins", "count": 1, "moments": [876] },
       "357": { "name": "Rachelle Richter", "count": 1, "moments": [876] },
       "365": { "name": "Daniel Richter", "count": 1, "moments": [876] },
@@ -5741,7 +5901,9 @@
     },
     "connections_count": 38,
     "moments": [876],
-    "moments_count": 1
+    "moments_count": 1,
+    "overnights": [],
+    "overnights_count": 0
   },
   "386": {
     "name": "Max Ropshaw",
@@ -5770,7 +5932,11 @@
       "358": { "name": "Rachel Kennedy", "count": 1, "moments": [876] },
       "286": { "name": "Danielle Vinson", "count": 1, "moments": [876] },
       "274": { "name": "Jason Baca", "count": 1, "moments": [876] },
-      "315": { "name": "Jose Briones-Siria", "count": 1, "moments": [876] },
+      "315": {
+        "name": "Jos\u00e9 Briones-Siria",
+        "count": 1,
+        "moments": [876]
+      },
       "394": { "name": "Calvin Collins", "count": 1, "moments": [876] },
       "357": { "name": "Rachelle Richter", "count": 1, "moments": [876] },
       "365": { "name": "Daniel Richter", "count": 1, "moments": [876] },
@@ -5787,7 +5953,9 @@
     },
     "connections_count": 38,
     "moments": [876],
-    "moments_count": 1
+    "moments_count": 1,
+    "overnights": [],
+    "overnights_count": 0
   },
   "387": {
     "name": "Melodie Arian",
@@ -5816,7 +5984,11 @@
       "358": { "name": "Rachel Kennedy", "count": 1, "moments": [876] },
       "286": { "name": "Danielle Vinson", "count": 1, "moments": [876] },
       "274": { "name": "Jason Baca", "count": 1, "moments": [876] },
-      "315": { "name": "Jose Briones-Siria", "count": 1, "moments": [876] },
+      "315": {
+        "name": "Jos\u00e9 Briones-Siria",
+        "count": 1,
+        "moments": [876]
+      },
       "394": { "name": "Calvin Collins", "count": 1, "moments": [876] },
       "357": { "name": "Rachelle Richter", "count": 1, "moments": [876] },
       "365": { "name": "Daniel Richter", "count": 1, "moments": [876] },
@@ -5833,7 +6005,9 @@
     },
     "connections_count": 38,
     "moments": [876],
-    "moments_count": 1
+    "moments_count": 1,
+    "overnights": [],
+    "overnights_count": 0
   },
   "389": {
     "name": "Rose Smith",
@@ -5862,7 +6036,11 @@
       "358": { "name": "Rachel Kennedy", "count": 1, "moments": [876] },
       "286": { "name": "Danielle Vinson", "count": 1, "moments": [876] },
       "274": { "name": "Jason Baca", "count": 1, "moments": [876] },
-      "315": { "name": "Jose Briones-Siria", "count": 1, "moments": [876] },
+      "315": {
+        "name": "Jos\u00e9 Briones-Siria",
+        "count": 1,
+        "moments": [876]
+      },
       "394": { "name": "Calvin Collins", "count": 1, "moments": [876] },
       "357": { "name": "Rachelle Richter", "count": 1, "moments": [876] },
       "365": { "name": "Daniel Richter", "count": 1, "moments": [876] },
@@ -5879,7 +6057,9 @@
     },
     "connections_count": 38,
     "moments": [876],
-    "moments_count": 1
+    "moments_count": 1,
+    "overnights": [],
+    "overnights_count": 0
   },
   "390": {
     "name": "Juniper Pollock",
@@ -5908,7 +6088,11 @@
       "358": { "name": "Rachel Kennedy", "count": 1, "moments": [876] },
       "286": { "name": "Danielle Vinson", "count": 1, "moments": [876] },
       "274": { "name": "Jason Baca", "count": 1, "moments": [876] },
-      "315": { "name": "Jose Briones-Siria", "count": 1, "moments": [876] },
+      "315": {
+        "name": "Jos\u00e9 Briones-Siria",
+        "count": 1,
+        "moments": [876]
+      },
       "394": { "name": "Calvin Collins", "count": 1, "moments": [876] },
       "357": { "name": "Rachelle Richter", "count": 1, "moments": [876] },
       "365": { "name": "Daniel Richter", "count": 1, "moments": [876] },
@@ -5925,7 +6109,9 @@
     },
     "connections_count": 38,
     "moments": [876],
-    "moments_count": 1
+    "moments_count": 1,
+    "overnights": [],
+    "overnights_count": 0
   },
   "391": {
     "name": "Madi Evans",
@@ -5954,7 +6140,11 @@
       "358": { "name": "Rachel Kennedy", "count": 1, "moments": [876] },
       "286": { "name": "Danielle Vinson", "count": 1, "moments": [876] },
       "274": { "name": "Jason Baca", "count": 1, "moments": [876] },
-      "315": { "name": "Jose Briones-Siria", "count": 1, "moments": [876] },
+      "315": {
+        "name": "Jos\u00e9 Briones-Siria",
+        "count": 1,
+        "moments": [876]
+      },
       "394": { "name": "Calvin Collins", "count": 1, "moments": [876] },
       "357": { "name": "Rachelle Richter", "count": 1, "moments": [876] },
       "365": { "name": "Daniel Richter", "count": 1, "moments": [876] },
@@ -5971,7 +6161,9 @@
     },
     "connections_count": 38,
     "moments": [876],
-    "moments_count": 1
+    "moments_count": 1,
+    "overnights": [],
+    "overnights_count": 0
   },
   "394": {
     "name": "Calvin Collins",
@@ -6001,7 +6193,11 @@
       "358": { "name": "Rachel Kennedy", "count": 1, "moments": [876] },
       "286": { "name": "Danielle Vinson", "count": 1, "moments": [876] },
       "274": { "name": "Jason Baca", "count": 1, "moments": [876] },
-      "315": { "name": "Jose Briones-Siria", "count": 1, "moments": [876] },
+      "315": {
+        "name": "Jos\u00e9 Briones-Siria",
+        "count": 1,
+        "moments": [876]
+      },
       "357": { "name": "Rachelle Richter", "count": 1, "moments": [876] },
       "365": { "name": "Daniel Richter", "count": 1, "moments": [876] },
       "395": { "name": "Sam Larkey", "count": 1, "moments": [876] },
@@ -6017,7 +6213,9 @@
     },
     "connections_count": 38,
     "moments": [876],
-    "moments_count": 1
+    "moments_count": 1,
+    "overnights": [],
+    "overnights_count": 0
   },
   "395": {
     "name": "Sam Larkey",
@@ -6047,7 +6245,11 @@
       "358": { "name": "Rachel Kennedy", "count": 1, "moments": [876] },
       "286": { "name": "Danielle Vinson", "count": 1, "moments": [876] },
       "274": { "name": "Jason Baca", "count": 1, "moments": [876] },
-      "315": { "name": "Jose Briones-Siria", "count": 1, "moments": [876] },
+      "315": {
+        "name": "Jos\u00e9 Briones-Siria",
+        "count": 1,
+        "moments": [876]
+      },
       "394": { "name": "Calvin Collins", "count": 1, "moments": [876] },
       "357": { "name": "Rachelle Richter", "count": 1, "moments": [876] },
       "365": { "name": "Daniel Richter", "count": 1, "moments": [876] },
@@ -6063,7 +6265,9 @@
     },
     "connections_count": 38,
     "moments": [876],
-    "moments_count": 1
+    "moments_count": 1,
+    "overnights": [],
+    "overnights_count": 0
   },
   "396": {
     "name": "Elizabeth Beaudoin",
@@ -6093,7 +6297,11 @@
       "358": { "name": "Rachel Kennedy", "count": 1, "moments": [876] },
       "286": { "name": "Danielle Vinson", "count": 1, "moments": [876] },
       "274": { "name": "Jason Baca", "count": 1, "moments": [876] },
-      "315": { "name": "Jose Briones-Siria", "count": 1, "moments": [876] },
+      "315": {
+        "name": "Jos\u00e9 Briones-Siria",
+        "count": 1,
+        "moments": [876]
+      },
       "394": { "name": "Calvin Collins", "count": 1, "moments": [876] },
       "357": { "name": "Rachelle Richter", "count": 1, "moments": [876] },
       "365": { "name": "Daniel Richter", "count": 1, "moments": [876] },
@@ -6109,7 +6317,9 @@
     },
     "connections_count": 38,
     "moments": [876],
-    "moments_count": 1
+    "moments_count": 1,
+    "overnights": [],
+    "overnights_count": 0
   },
   "419": {
     "name": "Rashaun Felicien",
@@ -6159,7 +6369,9 @@
     },
     "connections_count": 38,
     "moments": [906, 915],
-    "moments_count": 2
+    "moments_count": 2,
+    "overnights": [],
+    "overnights_count": 0
   },
   "340": {
     "name": "Aubrey Aronson",
@@ -6182,7 +6394,7 @@
       "322": { "name": "Jill DeBiase", "count": 2, "moments": [798, 881] },
       "114": { "name": "Norton King", "count": 2, "moments": [798, 881] },
       "315": {
-        "name": "Jose Briones-Siria",
+        "name": "Jos\u00e9 Briones-Siria",
         "count": 2,
         "moments": [798, 881]
       },
@@ -6202,7 +6414,7 @@
       "397": { "name": "Youyang Zhao", "count": 1, "moments": [881] },
       "382": { "name": "Dana Wilson", "count": 1, "moments": [881] },
       "358": { "name": "Rachel Kennedy", "count": 1, "moments": [881] },
-      "398": { "name": "Kristen (w/ Aubrey)", "count": 1, "moments": [881] },
+      "398": { "name": "Kristen Orzel", "count": 1, "moments": [881] },
       "274": { "name": "Jason Baca", "count": 1, "moments": [881] },
       "72": { "name": "Jason Lemon", "count": 1, "moments": [881] },
       "339": { "name": "Rex Pham", "count": 1, "moments": [881] },
@@ -6211,7 +6423,9 @@
     },
     "connections_count": 36,
     "moments": [798, 881],
-    "moments_count": 2
+    "moments_count": 2,
+    "overnights": [],
+    "overnights_count": 0
   },
   "354": {
     "name": "Molly Kennedy",
@@ -6234,7 +6448,7 @@
       "322": { "name": "Jill DeBiase", "count": 2, "moments": [798, 881] },
       "114": { "name": "Norton King", "count": 2, "moments": [798, 881] },
       "315": {
-        "name": "Jose Briones-Siria",
+        "name": "Jos\u00e9 Briones-Siria",
         "count": 2,
         "moments": [798, 881]
       },
@@ -6254,7 +6468,7 @@
       "397": { "name": "Youyang Zhao", "count": 1, "moments": [881] },
       "382": { "name": "Dana Wilson", "count": 1, "moments": [881] },
       "358": { "name": "Rachel Kennedy", "count": 1, "moments": [881] },
-      "398": { "name": "Kristen (w/ Aubrey)", "count": 1, "moments": [881] },
+      "398": { "name": "Kristen Orzel", "count": 1, "moments": [881] },
       "274": { "name": "Jason Baca", "count": 1, "moments": [881] },
       "72": { "name": "Jason Lemon", "count": 1, "moments": [881] },
       "339": { "name": "Rex Pham", "count": 1, "moments": [881] },
@@ -6263,7 +6477,9 @@
     },
     "connections_count": 36,
     "moments": [798, 881, 897],
-    "moments_count": 3
+    "moments_count": 3,
+    "overnights": [],
+    "overnights_count": 0
   },
   "414": {
     "name": "Jackie Rivera",
@@ -6309,7 +6525,9 @@
     },
     "connections_count": 34,
     "moments": [906],
-    "moments_count": 1
+    "moments_count": 1,
+    "overnights": [],
+    "overnights_count": 0
   },
   "415": {
     "name": "Kacei Clarke",
@@ -6355,7 +6573,9 @@
     },
     "connections_count": 34,
     "moments": [906],
-    "moments_count": 1
+    "moments_count": 1,
+    "overnights": [],
+    "overnights_count": 0
   },
   "416": {
     "name": "Steph\u00f3n Roddey",
@@ -6401,7 +6621,9 @@
     },
     "connections_count": 34,
     "moments": [906],
-    "moments_count": 1
+    "moments_count": 1,
+    "overnights": [],
+    "overnights_count": 0
   },
   "417": {
     "name": "David Ashley",
@@ -6447,7 +6669,9 @@
     },
     "connections_count": 34,
     "moments": [906],
-    "moments_count": 1
+    "moments_count": 1,
+    "overnights": [],
+    "overnights_count": 0
   },
   "418": {
     "name": "Kate Hinojosa",
@@ -6493,7 +6717,9 @@
     },
     "connections_count": 34,
     "moments": [906],
-    "moments_count": 1
+    "moments_count": 1,
+    "overnights": [],
+    "overnights_count": 0
   },
   "208": {
     "name": "Kelly Gabriel",
@@ -6516,7 +6742,7 @@
       "322": { "name": "Jill DeBiase", "count": 1, "moments": [798] },
       "114": { "name": "Norton King", "count": 1, "moments": [798] },
       "315": {
-        "name": "Jose Briones-Siria",
+        "name": "Jos\u00e9 Briones-Siria",
         "count": 2,
         "moments": [798, 812]
       },
@@ -6538,7 +6764,9 @@
     },
     "connections_count": 29,
     "moments": [798, 812],
-    "moments_count": 2
+    "moments_count": 2,
+    "overnights": [],
+    "overnights_count": 0
   },
   "352": {
     "name": "Parth Mehta",
@@ -6561,7 +6789,7 @@
       "322": { "name": "Jill DeBiase", "count": 1, "moments": [798] },
       "114": { "name": "Norton King", "count": 1, "moments": [798] },
       "315": {
-        "name": "Jose Briones-Siria",
+        "name": "Jos\u00e9 Briones-Siria",
         "count": 2,
         "moments": [798, 812]
       },
@@ -6583,7 +6811,9 @@
     },
     "connections_count": 29,
     "moments": [798, 812],
-    "moments_count": 2
+    "moments_count": 2,
+    "overnights": [],
+    "overnights_count": 0
   },
   "72": {
     "name": "Jason Lemon",
@@ -6592,7 +6822,11 @@
       "351": { "name": "Trent Shaffer", "count": 1, "moments": [881] },
       "369": { "name": "Joshua Carter", "count": 1, "moments": [881] },
       "316": { "name": "Melissa Briones-Siria", "count": 1, "moments": [881] },
-      "315": { "name": "Jose Briones-Siria", "count": 1, "moments": [881] },
+      "315": {
+        "name": "Jos\u00e9 Briones-Siria",
+        "count": 1,
+        "moments": [881]
+      },
       "384": { "name": "Micah Goldstein", "count": 1, "moments": [881] },
       "363": { "name": "Simon Goldstein", "count": 1, "moments": [881] },
       "350": { "name": "Jeremy Thomas", "count": 1, "moments": [881] },
@@ -6608,7 +6842,7 @@
       "382": { "name": "Dana Wilson", "count": 1, "moments": [881] },
       "358": { "name": "Rachel Kennedy", "count": 1, "moments": [881] },
       "340": { "name": "Aubrey Aronson", "count": 1, "moments": [881] },
-      "398": { "name": "Kristen (w/ Aubrey)", "count": 1, "moments": [881] },
+      "398": { "name": "Kristen Orzel", "count": 1, "moments": [881] },
       "320": { "name": "Mary Ann Tate", "count": 1, "moments": [881] },
       "274": { "name": "Jason Baca", "count": 1, "moments": [881] },
       "339": { "name": "Rex Pham", "count": 1, "moments": [881] },
@@ -6619,7 +6853,9 @@
     },
     "connections_count": 28,
     "moments": [881],
-    "moments_count": 1
+    "moments_count": 1,
+    "overnights": [71],
+    "overnights_count": 1
   },
   "258": {
     "name": "Elizabeth Moffatt",
@@ -6628,7 +6864,11 @@
       "351": { "name": "Trent Shaffer", "count": 1, "moments": [881] },
       "369": { "name": "Joshua Carter", "count": 1, "moments": [881] },
       "316": { "name": "Melissa Briones-Siria", "count": 1, "moments": [881] },
-      "315": { "name": "Jose Briones-Siria", "count": 1, "moments": [881] },
+      "315": {
+        "name": "Jos\u00e9 Briones-Siria",
+        "count": 1,
+        "moments": [881]
+      },
       "384": { "name": "Micah Goldstein", "count": 1, "moments": [881] },
       "363": { "name": "Simon Goldstein", "count": 1, "moments": [881] },
       "350": { "name": "Jeremy Thomas", "count": 1, "moments": [881] },
@@ -6643,7 +6883,7 @@
       "382": { "name": "Dana Wilson", "count": 1, "moments": [881] },
       "358": { "name": "Rachel Kennedy", "count": 1, "moments": [881] },
       "340": { "name": "Aubrey Aronson", "count": 1, "moments": [881] },
-      "398": { "name": "Kristen (w/ Aubrey)", "count": 1, "moments": [881] },
+      "398": { "name": "Kristen Orzel", "count": 1, "moments": [881] },
       "320": { "name": "Mary Ann Tate", "count": 1, "moments": [881] },
       "274": { "name": "Jason Baca", "count": 1, "moments": [881] },
       "72": { "name": "Jason Lemon", "count": 1, "moments": [881] },
@@ -6655,7 +6895,9 @@
     },
     "connections_count": 28,
     "moments": [881],
-    "moments_count": 1
+    "moments_count": 1,
+    "overnights": [],
+    "overnights_count": 0
   },
   "339": {
     "name": "Rex Pham",
@@ -6664,7 +6906,11 @@
       "351": { "name": "Trent Shaffer", "count": 1, "moments": [881] },
       "369": { "name": "Joshua Carter", "count": 1, "moments": [881] },
       "316": { "name": "Melissa Briones-Siria", "count": 1, "moments": [881] },
-      "315": { "name": "Jose Briones-Siria", "count": 1, "moments": [881] },
+      "315": {
+        "name": "Jos\u00e9 Briones-Siria",
+        "count": 1,
+        "moments": [881]
+      },
       "384": { "name": "Micah Goldstein", "count": 1, "moments": [881] },
       "363": { "name": "Simon Goldstein", "count": 1, "moments": [881] },
       "350": { "name": "Jeremy Thomas", "count": 1, "moments": [881] },
@@ -6680,7 +6926,7 @@
       "382": { "name": "Dana Wilson", "count": 1, "moments": [881] },
       "358": { "name": "Rachel Kennedy", "count": 1, "moments": [881] },
       "340": { "name": "Aubrey Aronson", "count": 1, "moments": [881] },
-      "398": { "name": "Kristen (w/ Aubrey)", "count": 1, "moments": [881] },
+      "398": { "name": "Kristen Orzel", "count": 1, "moments": [881] },
       "320": { "name": "Mary Ann Tate", "count": 1, "moments": [881] },
       "274": { "name": "Jason Baca", "count": 1, "moments": [881] },
       "72": { "name": "Jason Lemon", "count": 1, "moments": [881] },
@@ -6691,16 +6937,22 @@
     },
     "connections_count": 28,
     "moments": [881],
-    "moments_count": 1
+    "moments_count": 1,
+    "overnights": [71],
+    "overnights_count": 1
   },
   "398": {
-    "name": "Kristen (w/ Aubrey)",
+    "name": "Kristen Orzel",
     "connections": {
       "284": { "name": "Kyle Kane", "count": 1, "moments": [881] },
       "351": { "name": "Trent Shaffer", "count": 1, "moments": [881] },
       "369": { "name": "Joshua Carter", "count": 1, "moments": [881] },
       "316": { "name": "Melissa Briones-Siria", "count": 1, "moments": [881] },
-      "315": { "name": "Jose Briones-Siria", "count": 1, "moments": [881] },
+      "315": {
+        "name": "Jos\u00e9 Briones-Siria",
+        "count": 1,
+        "moments": [881]
+      },
       "384": { "name": "Micah Goldstein", "count": 1, "moments": [881] },
       "363": { "name": "Simon Goldstein", "count": 1, "moments": [881] },
       "350": { "name": "Jeremy Thomas", "count": 1, "moments": [881] },
@@ -6727,13 +6979,15 @@
     },
     "connections_count": 28,
     "moments": [881],
-    "moments_count": 1
+    "moments_count": 1,
+    "overnights": [],
+    "overnights_count": 0
   },
   "266": {
     "name": "Leah Younkin",
     "connections": {
       "315": {
-        "name": "Jose Briones-Siria",
+        "name": "Jos\u00e9 Briones-Siria",
         "count": 2,
         "moments": [788, 812]
       },
@@ -6769,7 +7023,9 @@
     },
     "connections_count": 26,
     "moments": [788, 812, 825],
-    "moments_count": 3
+    "moments_count": 3,
+    "overnights": [],
+    "overnights_count": 0
   },
   "149": {
     "name": "Maria Simone Weithers",
@@ -6798,15 +7054,17 @@
       "337": { "name": "David Wang", "count": 1, "moments": [863] },
       "323": { "name": "Greg Edelston", "count": 1, "moments": [863] },
       "382": { "name": "Dana Wilson", "count": 1, "moments": [863] },
-      "383": { "name": "Niera (w/ Zack)", "count": 1, "moments": [863] },
+      "383": { "name": "Niera Nez", "count": 1, "moments": [863] },
       "274": { "name": "Jason Baca", "count": 1, "moments": [863] }
     },
     "connections_count": 22,
     "moments": [863],
-    "moments_count": 1
+    "moments_count": 1,
+    "overnights": [69],
+    "overnights_count": 1
   },
   "383": {
-    "name": "Niera (w/ Zack)",
+    "name": "Niera Nez",
     "connections": {
       "377": { "name": "Wesley Tabor", "count": 1, "moments": [863] },
       "368": { "name": "Daniel Evan Quay", "count": 1, "moments": [863] },
@@ -6837,7 +7095,9 @@
     },
     "connections_count": 22,
     "moments": [863],
-    "moments_count": 1
+    "moments_count": 1,
+    "overnights": [],
+    "overnights_count": 0
   },
   "353": {
     "name": "Turan Kayaoglu",
@@ -6859,13 +7119,19 @@
       "355": { "name": "Jim Abraham", "count": 1, "moments": [798] },
       "322": { "name": "Jill DeBiase", "count": 1, "moments": [798] },
       "114": { "name": "Norton King", "count": 1, "moments": [798] },
-      "315": { "name": "Jose Briones-Siria", "count": 1, "moments": [798] },
+      "315": {
+        "name": "Jos\u00e9 Briones-Siria",
+        "count": 1,
+        "moments": [798]
+      },
       "316": { "name": "Melissa Briones-Siria", "count": 1, "moments": [798] },
       "323": { "name": "Greg Edelston", "count": 1, "moments": [798] }
     },
     "connections_count": 20,
     "moments": [798],
-    "moments_count": 1
+    "moments_count": 1,
+    "overnights": [],
+    "overnights_count": 0
   },
   "329": {
     "name": "Joanna Rivera",
@@ -6892,7 +7158,9 @@
     },
     "connections_count": 19,
     "moments": [850],
-    "moments_count": 1
+    "moments_count": 1,
+    "overnights": [],
+    "overnights_count": 0
   },
   "374": {
     "name": "Oliver Dasey-Springer",
@@ -6919,7 +7187,9 @@
     },
     "connections_count": 19,
     "moments": [850],
-    "moments_count": 1
+    "moments_count": 1,
+    "overnights": [],
+    "overnights_count": 0
   },
   "333": {
     "name": "Anthony Marti",
@@ -6945,11 +7215,13 @@
       "320": { "name": "Mary Ann Tate", "count": 1, "moments": [812] },
       "350": { "name": "Jeremy Thomas", "count": 1, "moments": [812] },
       "355": { "name": "Jim Abraham", "count": 1, "moments": [812] },
-      "315": { "name": "Jose Briones-Siria", "count": 1, "moments": [812] }
+      "315": { "name": "Jos\u00e9 Briones-Siria", "count": 1, "moments": [812] }
     },
     "connections_count": 18,
     "moments": [812],
-    "moments_count": 1
+    "moments_count": 1,
+    "overnights": [],
+    "overnights_count": 0
   },
   "334": {
     "name": "Natalie Kay",
@@ -6975,11 +7247,13 @@
       "320": { "name": "Mary Ann Tate", "count": 1, "moments": [812] },
       "350": { "name": "Jeremy Thomas", "count": 1, "moments": [812] },
       "355": { "name": "Jim Abraham", "count": 1, "moments": [812] },
-      "315": { "name": "Jose Briones-Siria", "count": 1, "moments": [812] }
+      "315": { "name": "Jos\u00e9 Briones-Siria", "count": 1, "moments": [812] }
     },
     "connections_count": 18,
     "moments": [812],
-    "moments_count": 1
+    "moments_count": 1,
+    "overnights": [],
+    "overnights_count": 0
   },
   "404": {
     "name": "Ankit Patel",
@@ -6990,7 +7264,7 @@
       "388": { "name": "Lexi Mitsuhashi", "count": 1, "moments": [894] },
       "320": { "name": "Mary Ann Tate", "count": 1, "moments": [894] },
       "405": { "name": "Desiree Starzyk", "count": 1, "moments": [894] },
-      "406": { "name": "Paul (w/ Lexi)", "count": 1, "moments": [894] },
+      "406": { "name": "Paul Yoo", "count": 1, "moments": [894] },
       "263": { "name": "Carol Roszell", "count": 1, "moments": [894] },
       "407": { "name": "Elaine French", "count": 1, "moments": [894] },
       "408": { "name": "Dan Adarme", "count": 1, "moments": [894] },
@@ -7008,7 +7282,9 @@
     },
     "connections_count": 17,
     "moments": [894],
-    "moments_count": 1
+    "moments_count": 1,
+    "overnights": [],
+    "overnights_count": 0
   },
   "405": {
     "name": "Desiree Starzyk",
@@ -7019,7 +7295,7 @@
       "363": { "name": "Simon Goldstein", "count": 1, "moments": [894] },
       "388": { "name": "Lexi Mitsuhashi", "count": 1, "moments": [894] },
       "320": { "name": "Mary Ann Tate", "count": 1, "moments": [894] },
-      "406": { "name": "Paul (w/ Lexi)", "count": 1, "moments": [894] },
+      "406": { "name": "Paul Yoo", "count": 1, "moments": [894] },
       "263": { "name": "Carol Roszell", "count": 1, "moments": [894] },
       "407": { "name": "Elaine French", "count": 1, "moments": [894] },
       "408": { "name": "Dan Adarme", "count": 1, "moments": [894] },
@@ -7037,10 +7313,12 @@
     },
     "connections_count": 17,
     "moments": [894],
-    "moments_count": 1
+    "moments_count": 1,
+    "overnights": [],
+    "overnights_count": 0
   },
   "406": {
-    "name": "Paul (w/ Lexi)",
+    "name": "Paul Yoo",
     "connections": {
       "384": { "name": "Micah Goldstein", "count": 1, "moments": [894] },
       "403": { "name": "Justin Schaffer", "count": 1, "moments": [894] },
@@ -7066,7 +7344,9 @@
     },
     "connections_count": 17,
     "moments": [894],
-    "moments_count": 1
+    "moments_count": 1,
+    "overnights": [],
+    "overnights_count": 0
   },
   "407": {
     "name": "Elaine French",
@@ -7078,7 +7358,7 @@
       "388": { "name": "Lexi Mitsuhashi", "count": 1, "moments": [894] },
       "320": { "name": "Mary Ann Tate", "count": 1, "moments": [894] },
       "405": { "name": "Desiree Starzyk", "count": 1, "moments": [894] },
-      "406": { "name": "Paul (w/ Lexi)", "count": 1, "moments": [894] },
+      "406": { "name": "Paul Yoo", "count": 1, "moments": [894] },
       "263": { "name": "Carol Roszell", "count": 1, "moments": [894] },
       "408": { "name": "Dan Adarme", "count": 1, "moments": [894] },
       "114": { "name": "Norton King", "count": 1, "moments": [894] },
@@ -7095,7 +7375,9 @@
     },
     "connections_count": 17,
     "moments": [894],
-    "moments_count": 1
+    "moments_count": 1,
+    "overnights": [],
+    "overnights_count": 0
   },
   "408": {
     "name": "Dan Adarme",
@@ -7107,7 +7389,7 @@
       "388": { "name": "Lexi Mitsuhashi", "count": 1, "moments": [894] },
       "320": { "name": "Mary Ann Tate", "count": 1, "moments": [894] },
       "405": { "name": "Desiree Starzyk", "count": 1, "moments": [894] },
-      "406": { "name": "Paul (w/ Lexi)", "count": 1, "moments": [894] },
+      "406": { "name": "Paul Yoo", "count": 1, "moments": [894] },
       "263": { "name": "Carol Roszell", "count": 1, "moments": [894] },
       "407": { "name": "Elaine French", "count": 1, "moments": [894] },
       "114": { "name": "Norton King", "count": 1, "moments": [894] },
@@ -7124,7 +7406,9 @@
     },
     "connections_count": 17,
     "moments": [894],
-    "moments_count": 1
+    "moments_count": 1,
+    "overnights": [],
+    "overnights_count": 0
   },
   "409": {
     "name": "Tim Coan",
@@ -7136,7 +7420,7 @@
       "388": { "name": "Lexi Mitsuhashi", "count": 1, "moments": [894] },
       "320": { "name": "Mary Ann Tate", "count": 1, "moments": [894] },
       "405": { "name": "Desiree Starzyk", "count": 1, "moments": [894] },
-      "406": { "name": "Paul (w/ Lexi)", "count": 1, "moments": [894] },
+      "406": { "name": "Paul Yoo", "count": 1, "moments": [894] },
       "263": { "name": "Carol Roszell", "count": 1, "moments": [894] },
       "407": { "name": "Elaine French", "count": 1, "moments": [894] },
       "408": { "name": "Dan Adarme", "count": 1, "moments": [894] },
@@ -7153,7 +7437,9 @@
     },
     "connections_count": 17,
     "moments": [894],
-    "moments_count": 1
+    "moments_count": 1,
+    "overnights": [],
+    "overnights_count": 0
   },
   "277": {
     "name": "Victoria Donovan",
@@ -7183,7 +7469,7 @@
       },
       "265": { "name": "Rikesh Buddhdev", "count": 1, "moments": [830] },
       "315": {
-        "name": "Jose Briones-Siria",
+        "name": "Jos\u00e9 Briones-Siria",
         "count": 2,
         "moments": [854, 875]
       },
@@ -7200,7 +7486,9 @@
     },
     "connections_count": 15,
     "moments": [817, 830, 854, 866, 867, 875, 900],
-    "moments_count": 7
+    "moments_count": 7,
+    "overnights": [],
+    "overnights_count": 0
   },
   "401": {
     "name": "Elsie Bauer",
@@ -7222,7 +7510,9 @@
     },
     "connections_count": 14,
     "moments": [891],
-    "moments_count": 1
+    "moments_count": 1,
+    "overnights": [],
+    "overnights_count": 0
   },
   "402": {
     "name": "Justas Marcinkevicius",
@@ -7244,7 +7534,9 @@
     },
     "connections_count": 14,
     "moments": [891],
-    "moments_count": 1
+    "moments_count": 1,
+    "overnights": [],
+    "overnights_count": 0
   },
   "314": {
     "name": "Drew Jackson",
@@ -7256,7 +7548,7 @@
         "moments": [904, 911]
       },
       "315": {
-        "name": "Jose Briones-Siria",
+        "name": "Jos\u00e9 Briones-Siria",
         "count": 2,
         "moments": [904, 911]
       },
@@ -7273,7 +7565,9 @@
     },
     "connections_count": 13,
     "moments": [904, 909, 911, 915],
-    "moments_count": 4
+    "moments_count": 4,
+    "overnights": [],
+    "overnights_count": 0
   },
   "324": {
     "name": "Alex Clark",
@@ -7294,11 +7588,13 @@
       "355": { "name": "Jim Abraham", "count": 1, "moments": [826] },
       "276": { "name": "Nicole Beich", "count": 1, "moments": [826] },
       "114": { "name": "Norton King", "count": 1, "moments": [826] },
-      "315": { "name": "Jose Briones-Siria", "count": 1, "moments": [826] }
+      "315": { "name": "Jos\u00e9 Briones-Siria", "count": 1, "moments": [826] }
     },
     "connections_count": 13,
     "moments": [826],
-    "moments_count": 1
+    "moments_count": 1,
+    "overnights": [],
+    "overnights_count": 0
   },
   "325": {
     "name": "Caleah Hager",
@@ -7319,11 +7615,13 @@
       "355": { "name": "Jim Abraham", "count": 1, "moments": [826] },
       "276": { "name": "Nicole Beich", "count": 1, "moments": [826] },
       "114": { "name": "Norton King", "count": 1, "moments": [826] },
-      "315": { "name": "Jose Briones-Siria", "count": 1, "moments": [826] }
+      "315": { "name": "Jos\u00e9 Briones-Siria", "count": 1, "moments": [826] }
     },
     "connections_count": 13,
     "moments": [826],
-    "moments_count": 1
+    "moments_count": 1,
+    "overnights": [],
+    "overnights_count": 0
   },
   "361": {
     "name": "Zack Williams",
@@ -7344,11 +7642,13 @@
       "355": { "name": "Jim Abraham", "count": 1, "moments": [826] },
       "276": { "name": "Nicole Beich", "count": 1, "moments": [826] },
       "114": { "name": "Norton King", "count": 1, "moments": [826] },
-      "315": { "name": "Jose Briones-Siria", "count": 1, "moments": [826] }
+      "315": { "name": "Jos\u00e9 Briones-Siria", "count": 1, "moments": [826] }
     },
     "connections_count": 13,
     "moments": [826],
-    "moments_count": 1
+    "moments_count": 1,
+    "overnights": [],
+    "overnights_count": 0
   },
   "359": {
     "name": "Zac Clark",
@@ -7367,15 +7667,21 @@
       "265": { "name": "Rikesh Buddhdev", "count": 1, "moments": [830] },
       "272": { "name": "David Shibley", "count": 1, "moments": [875] },
       "316": { "name": "Melissa Briones-Siria", "count": 1, "moments": [875] },
-      "315": { "name": "Jose Briones-Siria", "count": 1, "moments": [875] },
+      "315": {
+        "name": "Jos\u00e9 Briones-Siria",
+        "count": 1,
+        "moments": [875]
+      },
       "286": { "name": "Danielle Vinson", "count": 1, "moments": [875] }
     },
     "connections_count": 12,
     "moments": [817, 830, 875],
-    "moments_count": 3
+    "moments_count": 3,
+    "overnights": [],
+    "overnights_count": 0
   },
   "364": {
-    "name": "Katherine MakeTime",
+    "name": "Katherine Crawford",
     "connections": {
       "347": { "name": "Zachary Kaluza", "count": 1, "moments": [839] },
       "362": { "name": "Elijah Durso-Sabina", "count": 1, "moments": [839] },
@@ -7392,7 +7698,9 @@
     },
     "connections_count": 12,
     "moments": [839],
-    "moments_count": 1
+    "moments_count": 1,
+    "overnights": [],
+    "overnights_count": 0
   },
   "265": {
     "name": "Rikesh Buddhdev",
@@ -7408,12 +7716,18 @@
     },
     "connections_count": 8,
     "moments": [830],
-    "moments_count": 1
+    "moments_count": 1,
+    "overnights": [],
+    "overnights_count": 0
   },
   "348": {
     "name": "Aaron Briones-Siria",
     "connections": {
-      "315": { "name": "Jose Briones-Siria", "count": 1, "moments": [788] },
+      "315": {
+        "name": "Jos\u00e9 Briones-Siria",
+        "count": 1,
+        "moments": [788]
+      },
       "316": { "name": "Melissa Briones-Siria", "count": 1, "moments": [788] },
       "266": { "name": "Leah Younkin", "count": 1, "moments": [788] },
       "114": { "name": "Norton King", "count": 1, "moments": [788] },
@@ -7424,7 +7738,9 @@
     },
     "connections_count": 8,
     "moments": [788],
-    "moments_count": 1
+    "moments_count": 1,
+    "overnights": [],
+    "overnights_count": 0
   },
   "102": {
     "name": "Emily Robitschek",
@@ -7439,7 +7755,9 @@
     },
     "connections_count": 7,
     "moments": [785, 887, 915],
-    "moments_count": 3
+    "moments_count": 3,
+    "overnights": [],
+    "overnights_count": 0
   },
   "420": {
     "name": "Timo Denk",
@@ -7454,7 +7772,9 @@
     },
     "connections_count": 7,
     "moments": [915],
-    "moments_count": 1
+    "moments_count": 1,
+    "overnights": [],
+    "overnights_count": 0
   },
   "52": {
     "name": "Patrick McAnneny",
@@ -7467,7 +7787,9 @@
     },
     "connections_count": 5,
     "moments": [845],
-    "moments_count": 1
+    "moments_count": 1,
+    "overnights": [68],
+    "overnights_count": 1
   },
   "366": {
     "name": "Maria Santos",
@@ -7480,7 +7802,9 @@
     },
     "connections_count": 5,
     "moments": [845],
-    "moments_count": 1
+    "moments_count": 1,
+    "overnights": [68],
+    "overnights_count": 1
   },
   "10": {
     "name": "Timothy Rodriguez",
@@ -7492,14 +7816,16 @@
     },
     "connections_count": 4,
     "moments": [873],
-    "moments_count": 1
+    "moments_count": 1,
+    "overnights": [70],
+    "overnights_count": 1
   },
   "97": {
     "name": "Ross Icyda",
     "connections": {
       "98": { "name": "Elizabeth Haddad", "count": 1, "moments": [890] },
       "399": {
-        "name": "Naia (of Ross & Elizabeth)",
+        "name": "Naia Victoria Haddad Icyda",
         "count": 1,
         "moments": [890]
       },
@@ -7507,13 +7833,15 @@
     },
     "connections_count": 3,
     "moments": [890],
-    "moments_count": 1
+    "moments_count": 1,
+    "overnights": [],
+    "overnights_count": 0
   },
   "98": {
     "name": "Elizabeth Haddad",
     "connections": {
       "399": {
-        "name": "Naia (of Ross & Elizabeth)",
+        "name": "Naia Victoria Haddad Icyda",
         "count": 2,
         "moments": [889, 890]
       },
@@ -7522,7 +7850,9 @@
     },
     "connections_count": 3,
     "moments": [889, 890],
-    "moments_count": 2
+    "moments_count": 2,
+    "overnights": [],
+    "overnights_count": 0
   },
   "248": {
     "name": "Austin Peck",
@@ -7533,10 +7863,12 @@
     },
     "connections_count": 3,
     "moments": [784],
-    "moments_count": 1
+    "moments_count": 1,
+    "overnights": [],
+    "overnights_count": 0
   },
   "399": {
-    "name": "Naia (of Ross & Elizabeth)",
+    "name": "Naia Victoria Haddad Icyda",
     "connections": {
       "98": { "name": "Elizabeth Haddad", "count": 2, "moments": [889, 890] },
       "97": { "name": "Ross Icyda", "count": 1, "moments": [890] },
@@ -7544,7 +7876,9 @@
     },
     "connections_count": 3,
     "moments": [889, 890],
-    "moments_count": 2
+    "moments_count": 2,
+    "overnights": [],
+    "overnights_count": 0
   },
   "400": {
     "name": "Lee Icyda",
@@ -7552,14 +7886,16 @@
       "97": { "name": "Ross Icyda", "count": 1, "moments": [890] },
       "98": { "name": "Elizabeth Haddad", "count": 1, "moments": [890] },
       "399": {
-        "name": "Naia (of Ross & Elizabeth)",
+        "name": "Naia Victoria Haddad Icyda",
         "count": 1,
         "moments": [890]
       }
     },
     "connections_count": 3,
     "moments": [890],
-    "moments_count": 1
+    "moments_count": 1,
+    "overnights": [],
+    "overnights_count": 0
   },
   "154": {
     "name": "Jared Clayburn",
@@ -7569,7 +7905,9 @@
     },
     "connections_count": 2,
     "moments": [899],
-    "moments_count": 1
+    "moments_count": 1,
+    "overnights": [],
+    "overnights_count": 0
   },
   "410": {
     "name": "Hayley Woodhams",
@@ -7579,7 +7917,9 @@
     },
     "connections_count": 2,
     "moments": [899],
-    "moments_count": 1
+    "moments_count": 1,
+    "overnights": [],
+    "overnights_count": 0
   },
   "411": {
     "name": "Larry Woodhams",
@@ -7589,7 +7929,9 @@
     },
     "connections_count": 2,
     "moments": [899],
-    "moments_count": 1
+    "moments_count": 1,
+    "overnights": [],
+    "overnights_count": 0
   },
   "412": {
     "name": "Phil Giddings",
@@ -7599,7 +7941,9 @@
     },
     "connections_count": 2,
     "moments": [901],
-    "moments_count": 1
+    "moments_count": 1,
+    "overnights": [],
+    "overnights_count": 0
   },
   "413": {
     "name": "Jordan Weber",
@@ -7609,7 +7953,9 @@
     },
     "connections_count": 2,
     "moments": [901],
-    "moments_count": 1
+    "moments_count": 1,
+    "overnights": [],
+    "overnights_count": 0
   },
   "328": {
     "name": "Tyler Clare",
@@ -7618,7 +7964,9 @@
     },
     "connections_count": 1,
     "moments": [847, 885],
-    "moments_count": 2
+    "moments_count": 2,
+    "overnights": [],
+    "overnights_count": 0
   },
   "367": {
     "name": "Maggie Kates",
@@ -7627,62 +7975,80 @@
     },
     "connections_count": 1,
     "moments": [847, 885],
-    "moments_count": 2
+    "moments_count": 2,
+    "overnights": [],
+    "overnights_count": 0
   },
   "121": {
     "name": "Evan Simpson",
     "connections": {},
     "connections_count": 0,
     "moments": [860],
-    "moments_count": 1
+    "moments_count": 1,
+    "overnights": [],
+    "overnights_count": 0
   },
   "189": {
     "name": "Juanita Ruiz",
     "connections": {},
     "connections_count": 0,
     "moments": [],
-    "moments_count": 0
+    "moments_count": 0,
+    "overnights": [66],
+    "overnights_count": 1
   },
   "190": {
     "name": "Alfredo Ruiz",
     "connections": {},
     "connections_count": 0,
     "moments": [],
-    "moments_count": 0
+    "moments_count": 0,
+    "overnights": [66],
+    "overnights_count": 1
   },
   "298": {
     "name": "Nancy Ruiz",
     "connections": {},
     "connections_count": 0,
     "moments": [],
-    "moments_count": 0
+    "moments_count": 0,
+    "overnights": [67],
+    "overnights_count": 1
   },
   "317": {
     "name": "Elise Harboldt",
     "connections": {},
     "connections_count": 0,
     "moments": [793, 794, 865],
-    "moments_count": 3
+    "moments_count": 3,
+    "overnights": [60],
+    "overnights_count": 1
   },
   "349": {
     "name": "David Johnson",
     "connections": {},
     "connections_count": 0,
     "moments": [791, 800, 833, 868, 871, 879],
-    "moments_count": 6
+    "moments_count": 6,
+    "overnights": [],
+    "overnights_count": 0
   },
   "360": {
     "name": "Jill Berry",
     "connections": {},
     "connections_count": 0,
     "moments": [819],
-    "moments_count": 1
+    "moments_count": 1,
+    "overnights": [],
+    "overnights_count": 0
   },
   "376": {
     "name": "Eric Schneider",
     "connections": {},
     "connections_count": 0,
     "moments": [858],
-    "moments_count": 1
+    "moments_count": 1,
+    "overnights": [],
+    "overnights_count": 0
   }
 }
