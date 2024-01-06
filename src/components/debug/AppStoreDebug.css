@@ -2,19 +2,19 @@
 #socket-indicator {
   position: absolute;
   bottom: 0;
-  left: 0;
+  right: 0;
   margin: 1rem;
   width: 1rem;
   height: 1rem;
   border-radius: 0.5rem;
-  transition: all 0.2s ease;
+  transition: all 0.75s ease;
   cursor: pointer;
 }
 .has-socket #socket-indicator {
-  background-color: rgba(0, 255, 0, 1);
+  background-color: #191b8b;
 }
 .no-socket #socket-indicator {
-  background-color: rgba(255, 0, 0, 1);
+  background-color: #b8160a;
 }
 
 /* Debug panel */

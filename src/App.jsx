@@ -6,6 +6,7 @@ import Guests from "./components/Guests";
 import Connections from "./components/Connections";
 import Calendar from "./components/Calendar";
 import Moments from "./components/Moments";
+import Key from "./components/Key";
 
 import guestsData from "../data/guests_data.json";
 import momentsData from "../data/moments_data.json";
@@ -54,7 +55,7 @@ const App = () => {
             display: "grid",
             gridTemplateColumns: "repeat(9, 1fr)",
             gap: "10px",
-            height: "800px",
+            height: "788px",
             overflow: "hidden",
           }}
         >
@@ -63,6 +64,7 @@ const App = () => {
           {GUEST_1 && <Moments />}
         </div>
       </div>
+      <Key />
     </div>
   );
 };

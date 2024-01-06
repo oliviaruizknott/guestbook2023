@@ -76,8 +76,7 @@ button:focus-visible {
 }
 
 .section {
-  height: 100%;
-  border-top: solid 2px lightgray;
+  border-top: solid 2px #1f1f1f;
   padding-top: 10px;
 }
 
@@ -139,7 +138,36 @@ button:focus-visible {
 .day {
   aspect-ratio: 1;
   border-radius: 50%;
-  height: 15px;
-  background-color: #212249;
+  height: 8px;
+  background-color: #1f1f1f;
   transition: height 0.75s ease, background-color 0.75s ease;
+}
+
+.Key {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  margin: 1rem;
+  display: flex;
+  gap: 20px;
+}
+
+.color {
+  display: flex;
+  align-items: center;
+  width: 40px;
+  gap: 3px;
+}
+
+.color-box {
+  aspect-ratio: 1;
+  border-radius: 50%;
+  height: 15px;
+  width: 15px;
+}
+
+.color-text {
+  font-family: "RK Mono", monospace;
+  font-size: 16px;
+  font-weight: bold;
 }

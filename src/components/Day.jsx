@@ -1,17 +1,6 @@
 import { useCallback } from "react";
 import { useGetValue } from "../hooks/useHaxademicStore";
-
-const colorKey = {
-  0: "#212249", // no guests
-  1: "#5C2A71",
-  2: "#A71E77",
-  3: "#C7030A",
-  5: "#EE601E",
-  8: "#EC8D03",
-  13: "#F6BA0D",
-  21: "#F8DB6D",
-  34: "#FFFFFF",
-};
+import { colorKey } from "../constants";
 
 const Day = ({ day }) => {
   const MOMENTS_DATA = useGetValue("MOMENTS_DATA", null);
@@ -27,7 +16,7 @@ const Day = ({ day }) => {
 
       // when there is no guest selected use the MOMENTS_DATA to determine the color
       if (!GUEST_1) {
-        return { backgroundColor: getDayColor(day.moments), height: "25px" };
+        return { backgroundColor: getDayColor(day.moments), height: "30px" };
       }
 
       if (GUEST_1 && GUEST_1_MOMENTS && MOMENT_IDS) {
@@ -44,11 +33,11 @@ const Day = ({ day }) => {
         const colorRelevantMoments = day.moments.filter((id) =>
           MOMENT_IDS.includes(id)
         );
-        if (colorRelevantMoments.length === 0) return { height: "25px" };
+        if (colorRelevantMoments.length === 0) return { height: "30px" };
 
         return {
           backgroundColor: getDayColor(colorRelevantMoments),
-          height: "25px",
+          height: "30px",
         };
       }
     },
