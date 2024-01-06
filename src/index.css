@@ -1,3 +1,27 @@
+@font-face {
+  font-family: "Hark Transitional";
+  font-style: normal;
+  font-weight: 400;
+
+  src: url("/fonts/HarkTransitional5-Regular.woff2") format("woff2");
+}
+
+@font-face {
+  font-family: "RK Mono";
+  font-style: normal;
+  font-weight: 400;
+
+  src: url("/fonts/RKMono-14VF.woff2") format("woff2");
+}
+
+@font-face {
+  font-family: "RK Sans";
+  font-style: normal;
+  font-weight: 400;
+
+  src: url("/fonts/RKSans-17VF.woff2") format("woff2");
+}
+
 :root {
   font-family: serif;
   font-size: 16px;
@@ -58,7 +82,7 @@ button:focus-visible {
 }
 
 .section-header {
-  font-family: monospace;
+  font-family: "RK Mono";
   font-weight: bold;
   font-size: 24px;
   text-transform: uppercase;
@@ -71,7 +95,7 @@ button:focus-visible {
 }
 
 .list-item .count {
-  font-family: monospace;
+  font-family: "RK Mono", monospace;
   font-size: 16px;
   font-weight: bold;
 
@@ -81,14 +105,20 @@ button:focus-visible {
 }
 
 .list-item .name {
+  font-family: "RK Sans", sans-serif;
   font-size: 16px;
   font-weight: 400;
 }
 
 .guest-big {
+  font-family: "Hark Transitional";
   font-size: 136px;
   line-height: 122.4px;
   max-width: 300px;
+}
+
+.close {
+  font-family: "RK Mono", monospace;
 }
 
 .week {
@@ -99,7 +129,7 @@ button:focus-visible {
 }
 
 .week.labels {
-  font-family: monospace;
+  font-family: "RK Mono", monospace;
 }
 
 .day-container {

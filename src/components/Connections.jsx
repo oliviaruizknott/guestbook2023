@@ -7,7 +7,7 @@ const Connections = () => {
   const GUEST_2 = useGetValue("GUEST_2", null);
 
   const handleGuestClick = useCallback((e) => {
-    const guestId = e.target.dataset.guestid;
+    const guestId = e.currentTarget.dataset.guestid;
     setValue("GUEST_2", guestId);
   }, []);
 
@@ -57,7 +57,9 @@ const Connections = () => {
         <div className="section-header">was with</div>
         <div>
           <div className="guest-big">{GUESTS_DATA[GUEST_2].name}</div>
-          <div onClick={() => setValue("GUEST_2", null)}>X</div>
+          <div className="close" onClick={() => setValue("GUEST_2", null)}>
+            x
+          </div>
         </div>
       </>
     );

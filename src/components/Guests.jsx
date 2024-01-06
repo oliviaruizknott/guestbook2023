@@ -7,7 +7,7 @@ const Guests = () => {
 
   const handleGuestClick = useCallback(
     (e) => {
-      const guestId = e.target.dataset.guestid;
+      const guestId = e.currentTarget.dataset.guestid;
       setValue("GUEST_1", guestId);
     },
     [GUEST_1]
@@ -55,7 +55,9 @@ const Guests = () => {
       <div>
         <div className="section-header">Person</div>
         <div className="guest-big">{GUESTS_DATA[GUEST_1].name}</div>
-        <div onClick={() => setValue("GUEST_1", null)}>X</div>
+        <div className="close" onClick={() => setValue("GUEST_1", null)}>
+          x
+        </div>
       </div>
     );
   }, [GUESTS_DATA, GUEST_1]);
